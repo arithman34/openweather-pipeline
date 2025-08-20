@@ -4,4703 +4,1223 @@
     "country": "GB",
     "lat": 53.95763,
     "lon": -1.08271,
-    "id": 2633352
-  },
-  {
-    "name": "Yeovil",
-    "country": "GB",
-    "lat": 50.941589,
-    "lon": -2.63211,
-    "id": 2633373
-  },
-  {
-    "name": "Yeadon",
-    "country": "GB",
-    "lat": 53.864368,
-    "lon": -1.68743,
-    "id": 2633397
-  },
-  {
-    "name": "Yate",
-    "country": "GB",
-    "lat": 51.540741,
-    "lon": -2.41839,
-    "id": 2633406
+    "id": 2633352,
+    "code": "PPLA2"
   },
   {
     "name": "Wrexham",
     "country": "GB",
     "lat": 53.046638,
     "lon": -2.99132,
-    "id": 2633485
-  },
-  {
-    "name": "Worthing",
-    "country": "GB",
-    "lat": 50.81448,
-    "lon": -0.37126,
-    "id": 2633521
-  },
-  {
-    "name": "Worksop",
-    "country": "GB",
-    "lat": 53.301819,
-    "lon": -1.12404,
-    "id": 2633551
-  },
-  {
-    "name": "Workington",
-    "country": "GB",
-    "lat": 54.642502,
-    "lon": -3.54413,
-    "id": 2633553
+    "id": 2633485,
+    "code": "PPLA2"
   },
   {
     "name": "Worcester",
     "country": "GB",
     "lat": 52.18935,
     "lon": -2.22001,
-    "id": 2633563
-  },
-  {
-    "name": "Wombwell",
-    "country": "GB",
-    "lat": 53.521889,
-    "lon": -1.39698,
-    "id": 2633681
+    "id": 2633563,
+    "code": "PPLA2"
   },
   {
     "name": "Wolverhampton",
     "country": "GB",
     "lat": 52.585468,
     "lon": -2.12296,
-    "id": 2633691
+    "id": 2633691,
+    "code": "PPLA2"
   },
   {
     "name": "Wokingham",
     "country": "GB",
     "lat": 51.411201,
     "lon": -0.83565,
-    "id": 2633708
-  },
-  {
-    "name": "Woking",
-    "country": "GB",
-    "lat": 51.319031,
-    "lon": -0.55893,
-    "id": 2633709
-  },
-  {
-    "name": "Witney",
-    "country": "GB",
-    "lat": 51.7836,
-    "lon": -1.4854,
-    "id": 2633729
-  },
-  {
-    "name": "Witham",
-    "country": "GB",
-    "lat": 51.800072,
-    "lon": 0.64038,
-    "id": 2633749
-  },
-  {
-    "name": "Wishaw",
-    "country": "GB",
-    "lat": 55.76667,
-    "lon": -3.91667,
-    "id": 2633765
-  },
-  {
-    "name": "Wisbech",
-    "country": "GB",
-    "lat": 52.666222,
-    "lon": 0.15938,
-    "id": 2633771
-  },
-  {
-    "name": "Winsford",
-    "country": "GB",
-    "lat": 53.183331,
-    "lon": -2.51667,
-    "id": 2633810
-  },
-  {
-    "name": "Windsor",
-    "country": "GB",
-    "lat": 51.48333,
-    "lon": -0.6,
-    "id": 2633842
+    "id": 2633708,
+    "code": "PPLA2"
   },
   {
     "name": "Winchester",
     "country": "GB",
     "lat": 51.065128,
     "lon": -1.3187,
-    "id": 2633858
-  },
-  {
-    "name": "Wilmslow",
-    "country": "GB",
-    "lat": 53.32803,
-    "lon": -2.23148,
-    "id": 2633883
-  },
-  {
-    "name": "Willenhall",
-    "country": "GB",
-    "lat": 52.599998,
-    "lon": -2.03333,
-    "id": 2633912
-  },
-  {
-    "name": "Wigston Magna",
-    "country": "GB",
-    "lat": 52.58128,
-    "lon": -1.09248,
-    "id": 2633936
+    "id": 2633858,
+    "code": "PPLA2"
   },
   {
     "name": "Wigan",
     "country": "GB",
     "lat": 53.533329,
     "lon": -2.61667,
-    "id": 2633948
+    "id": 2633948,
+    "code": "PPLA2"
   },
   {
     "name": "Widnes",
     "country": "GB",
     "lat": 53.361801,
     "lon": -2.73406,
-    "id": 2633954
-  },
-  {
-    "name": "Wickford",
-    "country": "GB",
-    "lat": 51.611012,
-    "lon": 0.52331,
-    "id": 2633976
-  },
-  {
-    "name": "Whitstable",
-    "country": "GB",
-    "lat": 51.360699,
-    "lon": 1.0257,
-    "id": 2634021
-  },
-  {
-    "name": "Whitley Bay",
-    "country": "GB",
-    "lat": 55.03973,
-    "lon": -1.44713,
-    "id": 2634032
-  },
-  {
-    "name": "Whitehaven",
-    "country": "GB",
-    "lat": 54.548969,
-    "lon": -3.58412,
-    "id": 2634096
-  },
-  {
-    "name": "Whitefield",
-    "country": "GB",
-    "lat": 53.549999,
-    "lon": -2.3,
-    "id": 2634103
-  },
-  {
-    "name": "Whickham",
-    "country": "GB",
-    "lat": 54.94561,
-    "lon": -1.67635,
-    "id": 2634155
-  },
-  {
-    "name": "Weymouth",
-    "country": "GB",
-    "lat": 50.611359,
-    "lon": -2.45334,
-    "id": 2634202
-  },
-  {
-    "name": "Weybridge",
-    "country": "GB",
-    "lat": 51.372162,
-    "lon": -0.45297,
-    "id": 2634204
+    "id": 2633954,
+    "code": "PPLA2"
   },
   {
     "name": "Weston-super-Mare",
     "country": "GB",
     "lat": 51.346031,
     "lon": -2.97665,
-    "id": 2634308
-  },
-  {
-    "name": "West Molesey",
-    "country": "GB",
-    "lat": 51.399849,
-    "lon": -0.37997,
-    "id": 2634340
-  },
-  {
-    "name": "Westhoughton",
-    "country": "GB",
-    "lat": 53.548988,
-    "lon": -2.52464,
-    "id": 2634387
-  },
-  {
-    "name": "West Bromwich",
-    "country": "GB",
-    "lat": 52.518681,
-    "lon": -1.9945,
-    "id": 2634491
-  },
-  {
-    "name": "West Bridgford",
-    "country": "GB",
-    "lat": 52.92979,
-    "lon": -1.12537,
-    "id": 2634493
-  },
-  {
-    "name": "Welwyn Garden City",
-    "country": "GB",
-    "lat": 51.801739,
-    "lon": -0.20691,
-    "id": 2634552
-  },
-  {
-    "name": "Wellington",
-    "country": "GB",
-    "lat": 52.700001,
-    "lon": -2.51667,
-    "id": 2634573
-  },
-  {
-    "name": "Wellingborough",
-    "country": "GB",
-    "lat": 52.302731,
-    "lon": -0.69446,
-    "id": 2634578
-  },
-  {
-    "name": "Wednesfield",
-    "country": "GB",
-    "lat": 52.599998,
-    "lon": -2.08333,
-    "id": 2634616
-  },
-  {
-    "name": "Wednesbury",
-    "country": "GB",
-    "lat": 52.551399,
-    "lon": -2.02355,
-    "id": 2634617
-  },
-  {
-    "name": "Wath upon Dearne",
-    "country": "GB",
-    "lat": 53.502911,
-    "lon": -1.3458,
-    "id": 2634672
-  },
-  {
-    "name": "Watford",
-    "country": "GB",
-    "lat": 51.655312,
-    "lon": -0.39602,
-    "id": 2634677
-  },
-  {
-    "name": "Waterlooville",
-    "country": "GB",
-    "lat": 50.880669,
-    "lon": -1.0304,
-    "id": 2634686
-  },
-  {
-    "name": "Washington",
-    "country": "GB",
-    "lat": 54.900002,
-    "lon": -1.51667,
-    "id": 2634715
+    "id": 2634308,
+    "code": "PPLA2"
   },
   {
     "name": "Warwick",
     "country": "GB",
     "lat": 52.283329,
     "lon": -1.58333,
-    "id": 2634725
+    "id": 2634725,
+    "code": "PPLA2"
   },
   {
     "name": "Warrington",
     "country": "GB",
     "lat": 53.39254,
     "lon": -2.58024,
-    "id": 2634739
-  },
-  {
-    "name": "Warminster",
-    "country": "GB",
-    "lat": 51.204342,
-    "lon": -2.17873,
-    "id": 2634755
-  },
-  {
-    "name": "Ware",
-    "country": "GB",
-    "lat": 51.812649,
-    "lon": -0.02832,
-    "id": 2634777
-  },
-  {
-    "name": "Walton-on-Thames",
-    "country": "GB",
-    "lat": 51.38533,
-    "lon": -0.42066,
-    "id": 2634825
-  },
-  {
-    "name": "Waltham Abbey",
-    "country": "GB",
-    "lat": 51.687,
-    "lon": -0.00421,
-    "id": 2634843
+    "id": 2634739,
+    "code": "PPLA2"
   },
   {
     "name": "Walsall",
     "country": "GB",
     "lat": 52.585281,
     "lon": -1.98396,
-    "id": 2634853
+    "id": 2634853,
+    "code": "PPLA2"
   },
   {
     "name": "Wallsend",
     "country": "GB",
     "lat": 54.991112,
     "lon": -1.53397,
-    "id": 2634864
+    "id": 2634864,
+    "code": "PPLA2"
   },
   {
     "name": "Wallasey",
     "country": "GB",
     "lat": 53.423241,
     "lon": -3.06497,
-    "id": 2634873
-  },
-  {
-    "name": "Walkden",
-    "country": "GB",
-    "lat": 53.51667,
-    "lon": -2.4,
-    "id": 2634887
+    "id": 2634873,
+    "code": "PPLA2"
   },
   {
     "name": "Wakefield",
     "country": "GB",
     "lat": 53.683311,
     "lon": -1.49768,
-    "id": 2634910
-  },
-  {
-    "name": "Urmston",
-    "country": "GB",
-    "lat": 53.448521,
-    "lon": -2.35419,
-    "id": 2635062
-  },
-  {
-    "name": "Uckfield",
-    "country": "GB",
-    "lat": 50.969479,
-    "lon": 0.09589,
-    "id": 2635243
-  },
-  {
-    "name": "Tynemouth",
-    "country": "GB",
-    "lat": 55.017879,
-    "lon": -1.42559,
-    "id": 2635269
-  },
-  {
-    "name": "Tyldesley",
-    "country": "GB",
-    "lat": 53.513931,
-    "lon": -2.46754,
-    "id": 2635281
+    "id": 2634910,
+    "code": "PPLA2"
   },
   {
     "name": "Truro",
     "country": "GB",
     "lat": 50.265259,
     "lon": -5.05436,
-    "id": 2635412
+    "id": 2635412,
+    "code": "PPLA2"
   },
   {
     "name": "Trowbridge",
     "country": "GB",
     "lat": 51.31889,
     "lon": -2.20861,
-    "id": 2635427
-  },
-  {
-    "name": "Totton",
-    "country": "GB",
-    "lat": 50.91877,
-    "lon": -1.49037,
-    "id": 2635603
+    "id": 2635427,
+    "code": "PPLA2"
   },
   {
     "name": "Torquay",
     "country": "GB",
     "lat": 50.46384,
     "lon": -3.51434,
-    "id": 2635650
-  },
-  {
-    "name": "Tonbridge",
-    "country": "GB",
-    "lat": 51.192421,
-    "lon": 0.27532,
-    "id": 2635703
-  },
-  {
-    "name": "Tiverton",
-    "country": "GB",
-    "lat": 50.900002,
-    "lon": -3.48333,
-    "id": 2635762
-  },
-  {
-    "name": "Tipton",
-    "country": "GB",
-    "lat": 52.52956,
-    "lon": -2.06773,
-    "id": 2635785
-  },
-  {
-    "name": "Thornaby-on-Tees",
-    "country": "GB",
-    "lat": 54.533329,
-    "lon": -1.3,
-    "id": 2636005
-  },
-  {
-    "name": "Thetford",
-    "country": "GB",
-    "lat": 52.416672,
-    "lon": 0.75,
-    "id": 2636032
-  },
-  {
-    "name": "Thatcham",
-    "country": "GB",
-    "lat": 51.40366,
-    "lon": -1.26049,
-    "id": 2636049
-  },
-  {
-    "name": "Teignmouth",
-    "country": "GB",
-    "lat": 50.54768,
-    "lon": -3.49637,
-    "id": 2636132
+    "id": 2635650,
+    "code": "PPLA2"
   },
   {
     "name": "Taunton",
     "country": "GB",
     "lat": 51.021111,
     "lon": -3.10472,
-    "id": 2636177
-  },
-  {
-    "name": "Tamworth",
-    "country": "GB",
-    "lat": 52.633991,
-    "lon": -1.69587,
-    "id": 2636276
-  },
-  {
-    "name": "Tadley",
-    "country": "GB",
-    "lat": 51.350449,
-    "lon": -1.1285,
-    "id": 2636333
-  },
-  {
-    "name": "Swinton",
-    "country": "GB",
-    "lat": 53.5,
-    "lon": -2.35,
-    "id": 2636373
+    "id": 2636177,
+    "code": "PPLA2"
   },
   {
     "name": "Swindon",
     "country": "GB",
     "lat": 51.557968,
     "lon": -1.78116,
-    "id": 2636389
+    "id": 2636389,
+    "code": "PPLA2"
   },
   {
     "name": "Swansea",
     "country": "GB",
     "lat": 51.620789,
     "lon": -3.94323,
-    "id": 2636432
-  },
-  {
-    "name": "Swanscombe",
-    "country": "GB",
-    "lat": 51.447128,
-    "lon": 0.31028,
-    "id": 2636433
-  },
-  {
-    "name": "Swanley",
-    "country": "GB",
-    "lat": 51.397171,
-    "lon": 0.17321,
-    "id": 2636439
-  },
-  {
-    "name": "Swadlincote",
-    "country": "GB",
-    "lat": 52.773998,
-    "lon": -1.55744,
-    "id": 2636465
-  },
-  {
-    "name": "Sutton in Ashfield",
-    "country": "GB",
-    "lat": 53.12542,
-    "lon": -1.26135,
-    "id": 2636484
-  },
-  {
-    "name": "Sutton Coldfield",
-    "country": "GB",
-    "lat": 52.566669,
-    "lon": -1.81667,
-    "id": 2636486
-  },
-  {
-    "name": "Sutton",
-    "country": "GB",
-    "lat": 51.349998,
-    "lon": -0.2,
-    "id": 2636503
+    "id": 2636432,
+    "code": "PPLA2"
   },
   {
     "name": "Sunderland",
     "country": "GB",
     "lat": 54.904652,
     "lon": -1.38222,
-    "id": 2636531
-  },
-  {
-    "name": "Sunbury-on-Thames",
-    "country": "GB",
-    "lat": 51.406059,
-    "lon": -0.4137,
-    "id": 2636534
-  },
-  {
-    "name": "Stroud",
-    "country": "GB",
-    "lat": 51.75,
-    "lon": -2.2,
-    "id": 2636616
-  },
-  {
-    "name": "Strood",
-    "country": "GB",
-    "lat": 51.395939,
-    "lon": 0.49361,
-    "id": 2636619
+    "id": 2636531,
+    "code": "PPLA2"
   },
   {
     "name": "Stretford",
     "country": "GB",
     "lat": 53.450001,
     "lon": -2.31667,
-    "id": 2636663
-  },
-  {
-    "name": "Stratford-upon-Avon",
-    "country": "GB",
-    "lat": 52.191662,
-    "lon": -1.70734,
-    "id": 2636713
-  },
-  {
-    "name": "Stowmarket",
-    "country": "GB",
-    "lat": 52.188931,
-    "lon": 0.99774,
-    "id": 2636749
-  },
-  {
-    "name": "Stourport-on-Severn",
-    "country": "GB",
-    "lat": 52.349998,
-    "lon": -2.26667,
-    "id": 2636767
-  },
-  {
-    "name": "Stourbridge",
-    "country": "GB",
-    "lat": 52.456081,
-    "lon": -2.14317,
-    "id": 2636769
+    "id": 2636663,
+    "code": "PPLA2"
   },
   {
     "name": "Stoke-on-Trent",
     "country": "GB",
     "lat": 53.00415,
     "lon": -2.18538,
-    "id": 2636841
+    "id": 2636841,
+    "code": "PPLA2"
   },
   {
     "name": "Stockton-on-Tees",
     "country": "GB",
     "lat": 54.568481,
     "lon": -1.3187,
-    "id": 2636876
+    "id": 2636876,
+    "code": "PPLA2"
   },
   {
     "name": "Stockport",
     "country": "GB",
     "lat": 53.40979,
     "lon": -2.15761,
-    "id": 2636882
+    "id": 2636882,
+    "code": "PPLA2"
   },
   {
     "name": "Stirling",
     "country": "GB",
     "lat": 56.11903,
     "lon": -3.93682,
-    "id": 2636910
-  },
-  {
-    "name": "Stevenage",
-    "country": "GB",
-    "lat": 51.902241,
-    "lon": -0.20256,
-    "id": 2636940
-  },
-  {
-    "name": "Staveley",
-    "country": "GB",
-    "lat": 53.26667,
-    "lon": -1.35,
-    "id": 2636995
-  },
-  {
-    "name": "Stamford",
-    "country": "GB",
-    "lat": 52.650002,
-    "lon": -0.48333,
-    "id": 2637104
-  },
-  {
-    "name": "Stalybridge",
-    "country": "GB",
-    "lat": 53.484138,
-    "lon": -2.05908,
-    "id": 2637106
-  },
-  {
-    "name": "Staines",
-    "country": "GB",
-    "lat": 51.43092,
-    "lon": -0.50606,
-    "id": 2637126
+    "id": 2636910,
+    "code": "PPLA2"
   },
   {
     "name": "Stafford",
     "country": "GB",
     "lat": 52.80521,
     "lon": -2.11636,
-    "id": 2637142
-  },
-  {
-    "name": "Spennymoor",
-    "country": "GB",
-    "lat": 54.698799,
-    "lon": -1.60229,
-    "id": 2637235
-  },
-  {
-    "name": "Spalding",
-    "country": "GB",
-    "lat": 52.78709,
-    "lon": -0.15141,
-    "id": 2637265
+    "id": 2637142,
+    "code": "PPLA2"
   },
   {
     "name": "South Shields",
     "country": "GB",
     "lat": 54.998589,
     "lon": -1.4323,
-    "id": 2637329
-  },
-  {
-    "name": "Southsea",
-    "country": "GB",
-    "lat": 50.792049,
-    "lon": -1.08593,
-    "id": 2637330
+    "id": 2637329,
+    "code": "PPLA2"
   },
   {
     "name": "Southport",
     "country": "GB",
     "lat": 53.647789,
     "lon": -3.00648,
-    "id": 2637343
-  },
-  {
-    "name": "South Ockendon",
-    "country": "GB",
-    "lat": 51.507992,
-    "lon": 0.28333,
-    "id": 2637355
+    "id": 2637343,
+    "code": "PPLA2"
   },
   {
     "name": "Southend-on-Sea",
     "country": "GB",
     "lat": 51.537819,
     "lon": 0.71433,
-    "id": 2637433
-  },
-  {
-    "name": "South Elmsall",
-    "country": "GB",
-    "lat": 53.597092,
-    "lon": -1.28034,
-    "id": 2637435
-  },
-  {
-    "name": "South Benfleet",
-    "country": "GB",
-    "lat": 51.552952,
-    "lon": 0.55962,
-    "id": 2637476
+    "id": 2637433,
+    "code": "PPLA2"
   },
   {
     "name": "Southampton",
     "country": "GB",
     "lat": 50.90395,
     "lon": -1.40428,
-    "id": 2637487
+    "id": 2637487,
+    "code": "PPLA2"
   },
   {
     "name": "Solihull",
     "country": "GB",
     "lat": 52.414261,
     "lon": -1.78094,
-    "id": 2637546
+    "id": 2637546,
+    "code": "PPLA2"
   },
   {
     "name": "Slough",
     "country": "GB",
     "lat": 51.509491,
     "lon": -0.59541,
-    "id": 2637627
-  },
-  {
-    "name": "Sleaford",
-    "country": "GB",
-    "lat": 52.99826,
-    "lon": -0.40941,
-    "id": 2637659
-  },
-  {
-    "name": "Skelmersdale",
-    "country": "GB",
-    "lat": 53.55024,
-    "lon": -2.77348,
-    "id": 2637752
-  },
-  {
-    "name": "Skegness",
-    "country": "GB",
-    "lat": 53.14362,
-    "lon": 0.3363,
-    "id": 2637762
-  },
-  {
-    "name": "Sittingbourne",
-    "country": "GB",
-    "lat": 51.341282,
-    "lon": 0.73282,
-    "id": 2637802
+    "id": 2637627,
+    "code": "PPLA2"
   },
   {
     "name": "Shrewsbury",
     "country": "GB",
     "lat": 52.710091,
     "lon": -2.75208,
-    "id": 2637891
-  },
-  {
-    "name": "Shoreham-by-Sea",
-    "country": "GB",
-    "lat": 50.834129,
-    "lon": -0.27431,
-    "id": 2637916
-  },
-  {
-    "name": "Shoreham",
-    "country": "GB",
-    "lat": 51.333401,
-    "lon": 0.17801,
-    "id": 2637917
-  },
-  {
-    "name": "Shipley",
-    "country": "GB",
-    "lat": 53.833328,
-    "lon": -1.76667,
-    "id": 2637958
+    "id": 2637891,
+    "code": "PPLA2"
   },
   {
     "name": "Sheffield",
     "country": "GB",
     "lat": 53.382969,
     "lon": -1.4659,
-    "id": 2638077
-  },
-  {
-    "name": "Sevenoaks",
-    "country": "GB",
-    "lat": 51.26997,
-    "lon": 0.19278,
-    "id": 2638187
-  },
-  {
-    "name": "Selby",
-    "country": "GB",
-    "lat": 53.783329,
-    "lon": -1.06667,
-    "id": 2638235
-  },
-  {
-    "name": "Seaham",
-    "country": "GB",
-    "lat": 54.839031,
-    "lon": -1.34575,
-    "id": 2638302
-  },
-  {
-    "name": "Seaford",
-    "country": "GB",
-    "lat": 50.771412,
-    "lon": 0.10268,
-    "id": 2638311
+    "id": 2638077,
+    "code": "PPLA2"
   },
   {
     "name": "Scunthorpe",
     "country": "GB",
     "lat": 53.579048,
     "lon": -0.65437,
-    "id": 2638324
-  },
-  {
-    "name": "Scarborough",
-    "country": "GB",
-    "lat": 54.279659,
-    "lon": -0.40443,
-    "id": 2638419
-  },
-  {
-    "name": "Sandown",
-    "country": "GB",
-    "lat": 50.651581,
-    "lon": -1.16103,
-    "id": 2638568
-  },
-  {
-    "name": "Sandbach",
-    "country": "GB",
-    "lat": 53.145149,
-    "lon": -2.36251,
-    "id": 2638600
-  },
-  {
-    "name": "Salisbury",
-    "country": "GB",
-    "lat": 51.069309,
-    "lon": -1.79569,
-    "id": 2638664
+    "id": 2638324,
+    "code": "PPLA2"
   },
   {
     "name": "Salford",
     "country": "GB",
     "lat": 53.487709,
     "lon": -2.29042,
-    "id": 2638671
-  },
-  {
-    "name": "Sale",
-    "country": "GB",
-    "lat": 53.42519,
-    "lon": -2.32443,
-    "id": 2638678
-  },
-  {
-    "name": "Saint Neots",
-    "country": "GB",
-    "lat": 52.216671,
-    "lon": -0.26667,
-    "id": 2638717
+    "id": 2638671,
+    "code": "PPLA2"
   },
   {
     "name": "Saint Helens",
     "country": "GB",
     "lat": 53.450001,
     "lon": -2.73333,
-    "id": 2638785
-  },
-  {
-    "name": "Saint Austell",
-    "country": "GB",
-    "lat": 50.338329,
-    "lon": -4.76583,
-    "id": 2638853
-  },
-  {
-    "name": "Saint Andrews",
-    "country": "GB",
-    "lat": 56.338711,
-    "lon": -2.79902,
-    "id": 2638864
-  },
-  {
-    "name": "Saint Albans",
-    "country": "GB",
-    "lat": 51.75,
-    "lon": -0.33333,
-    "id": 2638867
-  },
-  {
-    "name": "Ryton",
-    "country": "GB",
-    "lat": 52.616669,
-    "lon": -2.35,
-    "id": 2638894
-  },
-  {
-    "name": "Ryde",
-    "country": "GB",
-    "lat": 50.729988,
-    "lon": -1.1621,
-    "id": 2638911
-  },
-  {
-    "name": "Rutherglen",
-    "country": "GB",
-    "lat": 55.82885,
-    "lon": -4.21376,
-    "id": 2638926
-  },
-  {
-    "name": "Rushden",
-    "country": "GB",
-    "lat": 52.291389,
-    "lon": -0.59923,
-    "id": 2638946
-  },
-  {
-    "name": "Runcorn",
-    "country": "GB",
-    "lat": 53.34174,
-    "lon": -2.73124,
-    "id": 2638960
-  },
-  {
-    "name": "Rugeley",
-    "country": "GB",
-    "lat": 52.7593,
-    "lon": -1.93694,
-    "id": 2638977
-  },
-  {
-    "name": "Rugby",
-    "country": "GB",
-    "lat": 52.370918,
-    "lon": -1.26417,
-    "id": 2638978
-  },
-  {
-    "name": "Royton",
-    "country": "GB",
-    "lat": 53.565071,
-    "lon": -2.12267,
-    "id": 2639015
-  },
-  {
-    "name": "Royal Tunbridge Wells",
-    "country": "GB",
-    "lat": 51.13245,
-    "lon": 0.26333,
-    "id": 2639022
-  },
-  {
-    "name": "Rottingdean",
-    "country": "GB",
-    "lat": 50.809841,
-    "lon": -0.05939,
-    "id": 2639069
+    "id": 2638785,
+    "code": "PPLA2"
   },
   {
     "name": "Rotherham",
     "country": "GB",
     "lat": 53.430119,
     "lon": -1.35678,
-    "id": 2639093
-  },
-  {
-    "name": "Romsey",
-    "country": "GB",
-    "lat": 50.989059,
-    "lon": -1.49989,
-    "id": 2639189
-  },
-  {
-    "name": "Rochford",
-    "country": "GB",
-    "lat": 51.581982,
-    "lon": 0.70673,
-    "id": 2639265
+    "id": 2639093,
+    "code": "PPLA2"
   },
   {
     "name": "Rochester",
     "country": "GB",
     "lat": 51.387642,
     "lon": 0.50546,
-    "id": 2639268
+    "id": 2639268,
+    "code": "PPLA2"
   },
   {
     "name": "Rochdale",
     "country": "GB",
     "lat": 53.617661,
     "lon": -2.1552,
-    "id": 2639272
-  },
-  {
-    "name": "Risca",
-    "country": "GB",
-    "lat": 51.60799,
-    "lon": -3.10081,
-    "id": 2639317
-  },
-  {
-    "name": "Ripon",
-    "country": "GB",
-    "lat": 54.135208,
-    "lon": -1.52122,
-    "id": 2639323
-  },
-  {
-    "name": "Ripley",
-    "country": "GB",
-    "lat": 53.033329,
-    "lon": -1.4,
-    "id": 2639325
-  },
-  {
-    "name": "Rhyl",
-    "country": "GB",
-    "lat": 53.31955,
-    "lon": -3.48862,
-    "id": 2639409
-  },
-  {
-    "name": "Rhondda",
-    "country": "GB",
-    "lat": 51.658958,
-    "lon": -3.44885,
-    "id": 2639447
-  },
-  {
-    "name": "Renfrew",
-    "country": "GB",
-    "lat": 55.871971,
-    "lon": -4.39253,
-    "id": 2639495
-  },
-  {
-    "name": "Reigate",
-    "country": "GB",
-    "lat": 51.237579,
-    "lon": -0.2078,
-    "id": 2639506
-  },
-  {
-    "name": "Redhill",
-    "country": "GB",
-    "lat": 51.240479,
-    "lon": -0.17044,
-    "id": 2639545
-  },
-  {
-    "name": "Redditch",
-    "country": "GB",
-    "lat": 52.306499,
-    "lon": -1.94569,
-    "id": 2639557
-  },
-  {
-    "name": "Redcar",
-    "country": "GB",
-    "lat": 54.61657,
-    "lon": -1.05999,
-    "id": 2639563
+    "id": 2639272,
+    "code": "PPLA2"
   },
   {
     "name": "Reading",
     "country": "GB",
     "lat": 51.456249,
     "lon": -0.97113,
-    "id": 2639577
-  },
-  {
-    "name": "Rayleigh",
-    "country": "GB",
-    "lat": 51.585709,
-    "lon": 0.60459,
-    "id": 2639583
-  },
-  {
-    "name": "Rawtenstall",
-    "country": "GB",
-    "lat": 53.70076,
-    "lon": -2.28442,
-    "id": 2639586
-  },
-  {
-    "name": "Rawmarsh",
-    "country": "GB",
-    "lat": 53.460621,
-    "lon": -1.34437,
-    "id": 2639588
-  },
-  {
-    "name": "Ramsgate",
-    "country": "GB",
-    "lat": 51.335758,
-    "lon": 1.41552,
-    "id": 2639660
-  },
-  {
-    "name": "Ramsbottom",
-    "country": "GB",
-    "lat": 53.647888,
-    "lon": -2.31683,
-    "id": 2639668
-  },
-  {
-    "name": "Radcliffe",
-    "country": "GB",
-    "lat": 53.549999,
-    "lon": -2.33333,
-    "id": 2639728
-  },
-  {
-    "name": "Pudsey",
-    "country": "GB",
-    "lat": 53.79538,
-    "lon": -1.66134,
-    "id": 2639866
-  },
-  {
-    "name": "Prestwick",
-    "country": "GB",
-    "lat": 55.48333,
-    "lon": -4.61667,
-    "id": 2639896
-  },
-  {
-    "name": "Prestwich",
-    "country": "GB",
-    "lat": 53.533329,
-    "lon": -2.28333,
-    "id": 2639897
+    "id": 2639577,
+    "code": "PPLA2"
   },
   {
     "name": "Preston",
     "country": "GB",
     "lat": 53.76667,
     "lon": -2.71667,
-    "id": 2639912
-  },
-  {
-    "name": "Prestatyn",
-    "country": "GB",
-    "lat": 53.337479,
-    "lon": -3.40776,
-    "id": 2639926
-  },
-  {
-    "name": "Prescot",
-    "country": "GB",
-    "lat": 53.429482,
-    "lon": -2.80031,
-    "id": 2639928
-  },
-  {
-    "name": "Poulton le Fylde",
-    "country": "GB",
-    "lat": 53.833328,
-    "lon": -2.98333,
-    "id": 2639958
-  },
-  {
-    "name": "Potters Bar",
-    "country": "GB",
-    "lat": 51.693531,
-    "lon": -0.17835,
-    "id": 2639970
+    "id": 2639912,
+    "code": "PPLA2"
   },
   {
     "name": "Portsmouth",
     "country": "GB",
     "lat": 50.798988,
     "lon": -1.09125,
-    "id": 2639996
-  },
-  {
-    "name": "Portslade",
-    "country": "GB",
-    "lat": 50.843349,
-    "lon": -0.21544,
-    "id": 2639998
-  },
-  {
-    "name": "Portishead",
-    "country": "GB",
-    "lat": 51.481991,
-    "lon": -2.76973,
-    "id": 2640037
-  },
-  {
-    "name": "Porthcawl",
-    "country": "GB",
-    "lat": 51.479031,
-    "lon": -3.70362,
-    "id": 2640054
-  },
-  {
-    "name": "Port Glasgow",
-    "country": "GB",
-    "lat": 55.934639,
-    "lon": -4.6895,
-    "id": 2640060
+    "id": 2639996,
+    "code": "PPLA2"
   },
   {
     "name": "Poole",
     "country": "GB",
     "lat": 50.716671,
     "lon": -2.0,
-    "id": 2640101
-  },
-  {
-    "name": "Pontypridd",
-    "country": "GB",
-    "lat": 51.6021,
-    "lon": -3.34211,
-    "id": 2640104
+    "id": 2640101,
+    "code": "PPLA2"
   },
   {
     "name": "Pontypool",
     "country": "GB",
     "lat": 51.701111,
     "lon": -3.04444,
-    "id": 2640106
-  },
-  {
-    "name": "Pontefract",
-    "country": "GB",
-    "lat": 53.691071,
-    "lon": -1.31269,
-    "id": 2640132
-  },
-  {
-    "name": "Polmont",
-    "country": "GB",
-    "lat": 55.990501,
-    "lon": -3.70737,
-    "id": 2640155
-  },
-  {
-    "name": "Plymstock",
-    "country": "GB",
-    "lat": 50.359989,
-    "lon": -4.09049,
-    "id": 2640190
+    "id": 2640106,
+    "code": "PPLA2"
   },
   {
     "name": "Plymouth",
     "country": "GB",
     "lat": 50.371529,
     "lon": -4.14305,
-    "id": 2640194
-  },
-  {
-    "name": "Pitsea",
-    "country": "GB",
-    "lat": 51.563869,
-    "lon": 0.50859,
-    "id": 2640246
-  },
-  {
-    "name": "Peterlee",
-    "country": "GB",
-    "lat": 54.760319,
-    "lon": -1.33649,
-    "id": 2640349
-  },
-  {
-    "name": "Peterhead",
-    "country": "GB",
-    "lat": 57.50584,
-    "lon": -1.79806,
-    "id": 2640351
+    "id": 2640194,
+    "code": "PPLA2"
   },
   {
     "name": "Peterborough",
     "country": "GB",
     "lat": 52.573639,
     "lon": -0.24777,
-    "id": 2640354
+    "id": 2640354,
+    "code": "PPLA2"
   },
   {
     "name": "Perth",
     "country": "GB",
     "lat": 56.395222,
     "lon": -3.43139,
-    "id": 2640358
-  },
-  {
-    "name": "Penzance",
-    "country": "GB",
-    "lat": 50.11861,
-    "lon": -5.53715,
-    "id": 2640377
-  },
-  {
-    "name": "Penicuik",
-    "country": "GB",
-    "lat": 55.831661,
-    "lon": -3.22423,
-    "id": 2640465
-  },
-  {
-    "name": "Penarth",
-    "country": "GB",
-    "lat": 51.439419,
-    "lon": -3.17609,
-    "id": 2640496
+    "id": 2640358,
+    "code": "PPLA2"
   },
   {
     "name": "Paisley",
     "country": "GB",
     "lat": 55.83173,
     "lon": -4.43254,
-    "id": 2640677
-  },
-  {
-    "name": "Paignton",
-    "country": "GB",
-    "lat": 50.43565,
-    "lon": -3.56789,
-    "id": 2640681
+    "id": 2640677,
+    "code": "PPLA2"
   },
   {
     "name": "Oxford",
     "country": "GB",
     "lat": 51.75222,
     "lon": -1.25596,
-    "id": 2640729
-  },
-  {
-    "name": "Oswestry",
-    "country": "GB",
-    "lat": 52.86195,
-    "lon": -3.05497,
-    "id": 2640861
-  },
-  {
-    "name": "Ossett",
-    "country": "GB",
-    "lat": 53.679779,
-    "lon": -1.58006,
-    "id": 2640869
-  },
-  {
-    "name": "Orpington",
-    "country": "GB",
-    "lat": 51.374569,
-    "lon": 0.09785,
-    "id": 2640894
-  },
-  {
-    "name": "Ormskirk",
-    "country": "GB",
-    "lat": 53.566849,
-    "lon": -2.88178,
-    "id": 2640908
+    "id": 2640729,
+    "code": "PPLA2"
   },
   {
     "name": "Omagh",
     "country": "GB",
     "lat": 54.599998,
     "lon": -7.3,
-    "id": 2640967
+    "id": 2640967,
+    "code": "PPLA2"
   },
   {
     "name": "Oldham",
     "country": "GB",
     "lat": 53.540508,
     "lon": -2.1183,
-    "id": 2641022
-  },
-  {
-    "name": "Oadby",
-    "country": "GB",
-    "lat": 52.606209,
-    "lon": -1.08354,
-    "id": 2641134
-  },
-  {
-    "name": "Nuneaton",
-    "country": "GB",
-    "lat": 52.523232,
-    "lon": -1.46523,
-    "id": 2641157
+    "id": 2641022,
+    "code": "PPLA2"
   },
   {
     "name": "Nottingham",
     "country": "GB",
     "lat": 52.953602,
     "lon": -1.15047,
-    "id": 2641170
+    "id": 2641170,
+    "code": "PPLA2"
   },
   {
     "name": "Norwich",
     "country": "GB",
     "lat": 52.627831,
     "lon": 1.29834,
-    "id": 2641181
-  },
-  {
-    "name": "Northwich",
-    "country": "GB",
-    "lat": 53.261379,
-    "lon": -2.51225,
-    "id": 2641224
-  },
-  {
-    "name": "North Shields",
-    "country": "GB",
-    "lat": 55.01646,
-    "lon": -1.44925,
-    "id": 2641267
-  },
-  {
-    "name": "Lancing",
-    "country": "GB",
-    "lat": 50.828819,
-    "lon": -0.32247,
-    "id": 2641319
+    "id": 2641181,
+    "code": "PPLA2"
   },
   {
     "name": "Northampton",
     "country": "GB",
     "lat": 52.25,
     "lon": -0.88333,
-    "id": 2641430
+    "id": 2641430,
+    "code": "PPLA2"
   },
   {
     "name": "Northallerton",
     "country": "GB",
     "lat": 54.339008,
     "lon": -1.43243,
-    "id": 2641435
+    "id": 2641435,
+    "code": "PPLA2"
   },
   {
     "name": "Newtownards",
     "country": "GB",
     "lat": 54.592361,
     "lon": -5.69092,
-    "id": 2641519
+    "id": 2641519,
+    "code": "PPLA2"
   },
   {
     "name": "Newtownabbey",
     "country": "GB",
     "lat": 54.659828,
     "lon": -5.90858,
-    "id": 2641520
-  },
-  {
-    "name": "Newton Mearns",
-    "country": "GB",
-    "lat": 55.773338,
-    "lon": -4.33339,
-    "id": 2641544
-  },
-  {
-    "name": "Newton-le-Willows",
-    "country": "GB",
-    "lat": 53.450001,
-    "lon": -2.6,
-    "id": 2641546
-  },
-  {
-    "name": "Newton Aycliffe",
-    "country": "GB",
-    "lat": 54.61842,
-    "lon": -1.5719,
-    "id": 2641555
-  },
-  {
-    "name": "Newton Abbot",
-    "country": "GB",
-    "lat": 50.52858,
-    "lon": -3.61186,
-    "id": 2641557
+    "id": 2641520,
+    "code": "PPLA2"
   },
   {
     "name": "Newry",
     "country": "GB",
     "lat": 54.17841,
     "lon": -6.33739,
-    "id": 2641581
-  },
-  {
-    "name": "Newquay",
-    "country": "GB",
-    "lat": 50.41317,
-    "lon": -5.08186,
-    "id": 2641589
-  },
-  {
-    "name": "Newport Pagnell",
-    "country": "GB",
-    "lat": 52.087311,
-    "lon": -0.72218,
-    "id": 2641591
+    "id": 2641581,
+    "code": "PPLA2"
   },
   {
     "name": "Newport",
     "country": "GB",
     "lat": 51.587742,
     "lon": -2.99835,
-    "id": 2641598
+    "id": 2641598,
+    "code": "PPLA2"
   },
   {
     "name": "Newport",
     "country": "GB",
     "lat": 50.701462,
     "lon": -1.29124,
-    "id": 2641599
-  },
-  {
-    "name": "New Milton",
-    "country": "GB",
-    "lat": 50.756008,
-    "lon": -1.6658,
-    "id": 2641609
-  },
-  {
-    "name": "Newmarket",
-    "country": "GB",
-    "lat": 52.244671,
-    "lon": 0.40418,
-    "id": 2641616
+    "id": 2641599,
+    "code": "PPLA2"
   },
   {
     "name": "Newcastle upon Tyne",
     "country": "GB",
     "lat": 54.973282,
     "lon": -1.61396,
-    "id": 2641673
-  },
-  {
-    "name": "Newcastle under Lyme",
-    "country": "GB",
-    "lat": 53.0,
-    "lon": -2.23333,
-    "id": 2641674
+    "id": 2641673,
+    "code": "PPLA2"
   },
   {
     "name": "Newbury",
     "country": "GB",
     "lat": 51.40033,
     "lon": -1.32059,
-    "id": 2641689
-  },
-  {
-    "name": "Newburn",
-    "country": "GB",
-    "lat": 54.987598,
-    "lon": -1.74415,
-    "id": 2641690
-  },
-  {
-    "name": "Newark on Trent",
-    "country": "GB",
-    "lat": 53.066669,
-    "lon": -0.81667,
-    "id": 2641731
-  },
-  {
-    "name": "Nelson",
-    "country": "GB",
-    "lat": 53.833328,
-    "lon": -2.2,
-    "id": 2641810
-  },
-  {
-    "name": "Neath",
-    "country": "GB",
-    "lat": 51.66317,
-    "lon": -3.80443,
-    "id": 2641843
-  },
-  {
-    "name": "Nailsea",
-    "country": "GB",
-    "lat": 51.432388,
-    "lon": -2.75847,
-    "id": 2641913
-  },
-  {
-    "name": "Musselburgh",
-    "country": "GB",
-    "lat": 55.9417,
-    "lon": -3.04991,
-    "id": 2641942
+    "id": 2641689,
+    "code": "PPLA2"
   },
   {
     "name": "Motherwell",
     "country": "GB",
     "lat": 55.789242,
     "lon": -3.99187,
-    "id": 2642135
-  },
-  {
-    "name": "Morley",
-    "country": "GB",
-    "lat": 53.740131,
-    "lon": -1.59877,
-    "id": 2642189
-  },
-  {
-    "name": "Moreton",
-    "country": "GB",
-    "lat": 53.400002,
-    "lon": -3.11667,
-    "id": 2642204
-  },
-  {
-    "name": "Morecambe",
-    "country": "GB",
-    "lat": 54.068352,
-    "lon": -2.86108,
-    "id": 2642214
-  },
-  {
-    "name": "Mirfield",
-    "country": "GB",
-    "lat": 53.673431,
-    "lon": -1.69636,
-    "id": 2642423
+    "id": 2642135,
+    "code": "PPLA2"
   },
   {
     "name": "Milton Keynes",
     "country": "GB",
     "lat": 52.041721,
     "lon": -0.75583,
-    "id": 2642465
-  },
-  {
-    "name": "Middleton",
-    "country": "GB",
-    "lat": 53.549999,
-    "lon": -2.2,
-    "id": 2642593
+    "id": 2642465,
+    "code": "PPLA2"
   },
   {
     "name": "Middlesbrough",
     "country": "GB",
     "lat": 54.576229,
     "lon": -1.23483,
-    "id": 2642607
-  },
-  {
-    "name": "Mexborough",
-    "country": "GB",
-    "lat": 53.493889,
-    "lon": -1.29243,
-    "id": 2642683
+    "id": 2642607,
+    "code": "PPLA2"
   },
   {
     "name": "Merthyr Tydfil",
     "country": "GB",
     "lat": 51.74794,
     "lon": -3.37779,
-    "id": 2642705
-  },
-  {
-    "name": "Melton Mowbray",
-    "country": "GB",
-    "lat": 52.765881,
-    "lon": -0.88693,
-    "id": 2642763
-  },
-  {
-    "name": "Marple",
-    "country": "GB",
-    "lat": 53.39452,
-    "lon": -2.06292,
-    "id": 2642999
-  },
-  {
-    "name": "Marlow",
-    "country": "GB",
-    "lat": 51.569328,
-    "lon": -0.77415,
-    "id": 2643003
-  },
-  {
-    "name": "Market Harborough",
-    "country": "GB",
-    "lat": 52.4776,
-    "lon": -0.92053,
-    "id": 2643027
-  },
-  {
-    "name": "Margate",
-    "country": "GB",
-    "lat": 51.381321,
-    "lon": 1.38617,
-    "id": 2643044
-  },
-  {
-    "name": "March",
-    "country": "GB",
-    "lat": 52.551311,
-    "lon": 0.08828,
-    "id": 2643071
-  },
-  {
-    "name": "Mansfield Woodhouse",
-    "country": "GB",
-    "lat": 53.164951,
-    "lon": -1.19384,
-    "id": 2643096
-  },
-  {
-    "name": "Mansfield",
-    "country": "GB",
-    "lat": 53.133331,
-    "lon": -1.2,
-    "id": 2643097
-  },
-  {
-    "name": "Mangotsfield",
-    "country": "GB",
-    "lat": 51.487801,
-    "lon": -2.50403,
-    "id": 2643116
+    "id": 2642705,
+    "code": "PPLA2"
   },
   {
     "name": "Manchester",
     "country": "GB",
     "lat": 53.480949,
     "lon": -2.23743,
-    "id": 2643123
-  },
-  {
-    "name": "Maltby",
-    "country": "GB",
-    "lat": 53.416672,
-    "lon": -1.2,
-    "id": 2643144
-  },
-  {
-    "name": "Maldon",
-    "country": "GB",
-    "lat": 51.731098,
-    "lon": 0.67463,
-    "id": 2643160
+    "id": 2643123,
+    "code": "PPLA2"
   },
   {
     "name": "Maidstone",
     "country": "GB",
     "lat": 51.26667,
     "lon": 0.51667,
-    "id": 2643179
+    "id": 2643179,
+    "code": "PPLA2"
   },
   {
     "name": "Maidenhead",
     "country": "GB",
     "lat": 51.522789,
     "lon": -0.71986,
-    "id": 2643186
-  },
-  {
-    "name": "Maghull",
-    "country": "GB",
-    "lat": 53.51619,
-    "lon": -2.94117,
-    "id": 2643198
-  },
-  {
-    "name": "Maesteg",
-    "country": "GB",
-    "lat": 51.609261,
-    "lon": -3.65823,
-    "id": 2643218
-  },
-  {
-    "name": "Macclesfield",
-    "country": "GB",
-    "lat": 53.260231,
-    "lon": -2.12564,
-    "id": 2643266
+    "id": 2643186,
+    "code": "PPLA2"
   },
   {
     "name": "Luton",
     "country": "GB",
     "lat": 51.879669,
     "lon": -0.41748,
-    "id": 2643339
-  },
-  {
-    "name": "Lowestoft",
-    "country": "GB",
-    "lat": 52.475201,
-    "lon": 1.75159,
-    "id": 2643490
-  },
-  {
-    "name": "Louth",
-    "country": "GB",
-    "lat": 53.366638,
-    "lon": -0.00438,
-    "id": 2643553
-  },
-  {
-    "name": "Loughborough",
-    "country": "GB",
-    "lat": 52.76667,
-    "lon": -1.2,
-    "id": 2643567
-  },
-  {
-    "name": "Longfield",
-    "country": "GB",
-    "lat": 51.3969,
-    "lon": 0.30212,
-    "id": 2643696
-  },
-  {
-    "name": "Long Eaton",
-    "country": "GB",
-    "lat": 52.898548,
-    "lon": -1.27136,
-    "id": 2643697
-  },
-  {
-    "name": "Londonderry County Borough",
-    "country": "GB",
-    "lat": 54.997211,
-    "lon": -7.30917,
-    "id": 2643734
-  },
-  {
-    "name": "City of London",
-    "country": "GB",
-    "lat": 51.512791,
-    "lon": -0.09184,
-    "id": 2643741
+    "id": 2643339,
+    "code": "PPLA2"
   },
   {
     "name": "London",
     "country": "GB",
     "lat": 51.50853,
     "lon": -0.12574,
-    "id": 2643743
-  },
-  {
-    "name": "Lofthouse",
-    "country": "GB",
-    "lat": 53.729469,
-    "lon": -1.49697,
-    "id": 2643776
-  },
-  {
-    "name": "Llanelli",
-    "country": "GB",
-    "lat": 51.68195,
-    "lon": -4.16191,
-    "id": 2644100
-  },
-  {
-    "name": "Llandudno",
-    "country": "GB",
-    "lat": 53.324982,
-    "lon": -3.83148,
-    "id": 2644120
+    "id": 2643743,
+    "code": "PPLC"
   },
   {
     "name": "Livingston",
     "country": "GB",
     "lat": 55.902882,
     "lon": -3.52261,
-    "id": 2644204
+    "id": 2644204,
+    "code": "PPLA2"
   },
   {
     "name": "Liverpool",
     "country": "GB",
     "lat": 53.41058,
     "lon": -2.97794,
-    "id": 2644210
-  },
-  {
-    "name": "Littlehampton",
-    "country": "GB",
-    "lat": 50.806911,
-    "lon": -0.53782,
-    "id": 2644319
-  },
-  {
-    "name": "Litherland",
-    "country": "GB",
-    "lat": 53.469929,
-    "lon": -2.99809,
-    "id": 2644386
+    "id": 2644210,
+    "code": "PPLA2"
   },
   {
     "name": "Lisburn",
     "country": "GB",
     "lat": 54.523369,
     "lon": -6.03527,
-    "id": 2644411
+    "id": 2644411,
+    "code": "PPLA2"
   },
   {
     "name": "Lincoln",
     "country": "GB",
     "lat": 53.22683,
     "lon": -0.53792,
-    "id": 2644487
-  },
-  {
-    "name": "Lichfield",
-    "country": "GB",
-    "lat": 52.681541,
-    "lon": -1.82549,
-    "id": 2644531
-  },
-  {
-    "name": "Leyland",
-    "country": "GB",
-    "lat": 53.697861,
-    "lon": -2.68758,
-    "id": 2644547
+    "id": 2644487,
+    "code": "PPLA2"
   },
   {
     "name": "Lewes",
     "country": "GB",
     "lat": 50.873631,
     "lon": 0.01133,
-    "id": 2644559
-  },
-  {
-    "name": "Letchworth",
-    "country": "GB",
-    "lat": 51.979439,
-    "lon": -0.2284,
-    "id": 2644597
-  },
-  {
-    "name": "Leighton Buzzard",
-    "country": "GB",
-    "lat": 51.917221,
-    "lon": -0.65802,
-    "id": 2644652
-  },
-  {
-    "name": "Leigh",
-    "country": "GB",
-    "lat": 53.48333,
-    "lon": -2.51667,
-    "id": 2644660
+    "id": 2644559,
+    "code": "PPLA2"
   },
   {
     "name": "Leicester",
     "country": "GB",
     "lat": 52.638599,
     "lon": -1.13169,
-    "id": 2644668
-  },
-  {
-    "name": "Leek",
-    "country": "GB",
-    "lat": 53.10434,
-    "lon": -2.02207,
-    "id": 2644684
+    "id": 2644668,
+    "code": "PPLA2"
   },
   {
     "name": "Leeds",
     "country": "GB",
     "lat": 53.796478,
     "lon": -1.54785,
-    "id": 2644688
-  },
-  {
-    "name": "Leatherhead",
-    "country": "GB",
-    "lat": 51.295929,
-    "lon": -0.3259,
-    "id": 2644726
-  },
-  {
-    "name": "Royal Leamington Spa",
-    "country": "GB",
-    "lat": 52.299999,
-    "lon": -1.53333,
-    "id": 2644737
+    "id": 2644688,
+    "code": "PPLA2"
   },
   {
     "name": "Larne",
     "country": "GB",
     "lat": 54.849998,
     "lon": -5.81667,
-    "id": 2644849
-  },
-  {
-    "name": "Larkhall",
-    "country": "GB",
-    "lat": 55.73333,
-    "lon": -3.96667,
-    "id": 2644853
-  },
-  {
-    "name": "Lancaster",
-    "country": "GB",
-    "lat": 54.066669,
-    "lon": -2.83333,
-    "id": 2644972
+    "id": 2644849,
+    "code": "PPLA2"
   },
   {
     "name": "Kirkintilloch",
     "country": "GB",
     "lat": 55.939331,
     "lon": -4.15262,
-    "id": 2645261
-  },
-  {
-    "name": "Kirkcaldy",
-    "country": "GB",
-    "lat": 56.109821,
-    "lon": -3.16149,
-    "id": 2645298
-  },
-  {
-    "name": "Kirkby in Ashfield",
-    "country": "GB",
-    "lat": 53.099819,
-    "lon": -1.24379,
-    "id": 2645309
-  },
-  {
-    "name": "Kirkby",
-    "country": "GB",
-    "lat": 53.48333,
-    "lon": -2.9,
-    "id": 2645313
-  },
-  {
-    "name": "Kingswood",
-    "country": "GB",
-    "lat": 51.452782,
-    "lon": -2.50833,
-    "id": 2645418
-  },
-  {
-    "name": "Kingswinford",
-    "country": "GB",
-    "lat": 52.497551,
-    "lon": -2.16889,
-    "id": 2645420
+    "id": 2645261,
+    "code": "PPLA2"
   },
   {
     "name": "Hull",
     "country": "GB",
     "lat": 53.744598,
     "lon": -0.33525,
-    "id": 2645425
-  },
-  {
-    "name": "Kings Lynn",
-    "country": "GB",
-    "lat": 52.75172,
-    "lon": 0.39516,
-    "id": 2645456
-  },
-  {
-    "name": "Kilwinning",
-    "country": "GB",
-    "lat": 55.653332,
-    "lon": -4.70666,
-    "id": 2645541
+    "id": 2645425,
+    "code": "PPLA2"
   },
   {
     "name": "Kilmarnock",
     "country": "GB",
     "lat": 55.61171,
     "lon": -4.49581,
-    "id": 2645605
-  },
-  {
-    "name": "Kidsgrove",
-    "country": "GB",
-    "lat": 53.08691,
-    "lon": -2.23777,
-    "id": 2645721
-  },
-  {
-    "name": "Kidlington",
-    "country": "GB",
-    "lat": 51.821659,
-    "lon": -1.2886,
-    "id": 2645722
-  },
-  {
-    "name": "Kidderminster",
-    "country": "GB",
-    "lat": 52.388191,
-    "lon": -2.25,
-    "id": 2645724
-  },
-  {
-    "name": "Keynsham",
-    "country": "GB",
-    "lat": 51.413872,
-    "lon": -2.4978,
-    "id": 2645733
-  },
-  {
-    "name": "Kettering",
-    "country": "GB",
-    "lat": 52.398361,
-    "lon": -0.72571,
-    "id": 2645753
-  },
-  {
-    "name": "Kenilworth",
-    "country": "GB",
-    "lat": 52.342861,
-    "lon": -1.58015,
-    "id": 2645822
-  },
-  {
-    "name": "Kendal",
-    "country": "GB",
-    "lat": 54.326809,
-    "lon": -2.74757,
-    "id": 2645826
-  },
-  {
-    "name": "Kempston",
-    "country": "GB",
-    "lat": 52.11599,
-    "lon": -0.50044,
-    "id": 2645831
-  },
-  {
-    "name": "Keighley",
-    "country": "GB",
-    "lat": 53.867908,
-    "lon": -1.90664,
-    "id": 2645889
-  },
-  {
-    "name": "Johnstone",
-    "country": "GB",
-    "lat": 55.82906,
-    "lon": -4.51605,
-    "id": 2645951
-  },
-  {
-    "name": "Jarrow",
-    "country": "GB",
-    "lat": 54.980358,
-    "lon": -1.48423,
-    "id": 2645972
-  },
-  {
-    "name": "Islington",
-    "country": "GB",
-    "lat": 51.536221,
-    "lon": -0.10304,
-    "id": 2646003
+    "id": 2645605,
+    "code": "PPLA2"
   },
   {
     "name": "Irvine",
     "country": "GB",
     "lat": 55.6194,
     "lon": -4.65508,
-    "id": 2646032
-  },
-  {
-    "name": "Irlam",
-    "country": "GB",
-    "lat": 53.442532,
-    "lon": -2.42323,
-    "id": 2646042
+    "id": 2646032,
+    "code": "PPLA2"
   },
   {
     "name": "Ipswich",
     "country": "GB",
     "lat": 52.05917,
     "lon": 1.15545,
-    "id": 2646057
+    "id": 2646057,
+    "code": "PPLA2"
   },
   {
     "name": "Inverness",
     "country": "GB",
     "lat": 57.47908,
     "lon": -4.22398,
-    "id": 2646088
-  },
-  {
-    "name": "Ilkeston",
-    "country": "GB",
-    "lat": 52.970551,
-    "lon": -1.30951,
-    "id": 2646274
-  },
-  {
-    "name": "Hythe",
-    "country": "GB",
-    "lat": 50.860039,
-    "lon": -1.40162,
-    "id": 2646317
-  },
-  {
-    "name": "Hyde",
-    "country": "GB",
-    "lat": 53.451309,
-    "lon": -2.07943,
-    "id": 2646327
-  },
-  {
-    "name": "Huyton",
-    "country": "GB",
-    "lat": 53.411499,
-    "lon": -2.83935,
-    "id": 2646329
-  },
-  {
-    "name": "Huntingdon",
-    "country": "GB",
-    "lat": 52.33049,
-    "lon": -0.18651,
-    "id": 2646393
+    "id": 2646088,
+    "code": "PPLA2"
   },
   {
     "name": "Huddersfield",
     "country": "GB",
     "lat": 53.64904,
     "lon": -1.78416,
-    "id": 2646458
-  },
-  {
-    "name": "Hucknall",
-    "country": "GB",
-    "lat": 53.033329,
-    "lon": -1.2,
-    "id": 2646460
-  },
-  {
-    "name": "Hoyland Nether",
-    "country": "GB",
-    "lat": 53.5,
-    "lon": -1.45,
-    "id": 2646471
+    "id": 2646458,
+    "code": "PPLA2"
   },
   {
     "name": "Hove",
     "country": "GB",
     "lat": 50.830879,
     "lon": -0.1672,
-    "id": 2646504
-  },
-  {
-    "name": "Houghton-le-Spring",
-    "country": "GB",
-    "lat": 54.84034,
-    "lon": -1.46427,
-    "id": 2646525
-  },
-  {
-    "name": "Horwich",
-    "country": "GB",
-    "lat": 53.601261,
-    "lon": -2.54975,
-    "id": 2646542
-  },
-  {
-    "name": "Horsham",
-    "country": "GB",
-    "lat": 51.06395,
-    "lon": -0.32719,
-    "id": 2646557
-  },
-  {
-    "name": "Horsforth",
-    "country": "GB",
-    "lat": 53.837971,
-    "lon": -1.64036,
-    "id": 2646558
-  },
-  {
-    "name": "Horley",
-    "country": "GB",
-    "lat": 51.174229,
-    "lon": -0.15919,
-    "id": 2646606
-  },
-  {
-    "name": "Hoddesdon",
-    "country": "GB",
-    "lat": 51.761478,
-    "lon": -0.01144,
-    "id": 2646807
-  },
-  {
-    "name": "Hitchin",
-    "country": "GB",
-    "lat": 51.95314,
-    "lon": -0.26519,
-    "id": 2646826
-  },
-  {
-    "name": "Hindley",
-    "country": "GB",
-    "lat": 53.533329,
-    "lon": -2.58333,
-    "id": 2646862
-  },
-  {
-    "name": "Hinckley",
-    "country": "GB",
-    "lat": 52.538898,
-    "lon": -1.37613,
-    "id": 2646867
-  },
-  {
-    "name": "High Wycombe",
-    "country": "GB",
-    "lat": 51.62907,
-    "lon": -0.74934,
-    "id": 2646914
-  },
-  {
-    "name": "High Blantyre",
-    "country": "GB",
-    "lat": 55.784382,
-    "lon": -4.10007,
-    "id": 2646979
-  },
-  {
-    "name": "Heswall",
-    "country": "GB",
-    "lat": 53.327332,
-    "lon": -3.09648,
-    "id": 2647026
+    "id": 2646504,
+    "code": "PPLA2"
   },
   {
     "name": "Hertford",
     "country": "GB",
     "lat": 51.795879,
     "lon": -0.07854,
-    "id": 2647044
-  },
-  {
-    "name": "Herne Bay",
-    "country": "GB",
-    "lat": 51.373001,
-    "lon": 1.12857,
-    "id": 2647057
+    "id": 2647044,
+    "code": "PPLA2"
   },
   {
     "name": "Hereford",
     "country": "GB",
     "lat": 52.056839,
     "lon": -2.71482,
-    "id": 2647074
-  },
-  {
-    "name": "Hemel Hempstead",
-    "country": "GB",
-    "lat": 51.753689,
-    "lon": -0.47517,
-    "id": 2647138
-  },
-  {
-    "name": "Hebburn",
-    "country": "GB",
-    "lat": 54.973019,
-    "lon": -1.51546,
-    "id": 2647209
-  },
-  {
-    "name": "Heanor",
-    "country": "GB",
-    "lat": 53.013721,
-    "lon": -1.35383,
-    "id": 2647227
-  },
-  {
-    "name": "Hazel Grove",
-    "country": "GB",
-    "lat": 53.383331,
-    "lon": -2.11667,
-    "id": 2647246
-  },
-  {
-    "name": "Haywards Heath",
-    "country": "GB",
-    "lat": 50.997688,
-    "lon": -0.10313,
-    "id": 2647248
-  },
-  {
-    "name": "Hayes",
-    "country": "GB",
-    "lat": 51.515789,
-    "lon": -0.4234,
-    "id": 2647261
-  },
-  {
-    "name": "Haydock",
-    "country": "GB",
-    "lat": 53.467232,
-    "lon": -2.68166,
-    "id": 2647265
-  },
-  {
-    "name": "Hawarden",
-    "country": "GB",
-    "lat": 53.18478,
-    "lon": -3.02578,
-    "id": 2647303
-  },
-  {
-    "name": "Haverhill",
-    "country": "GB",
-    "lat": 52.08226,
-    "lon": 0.43891,
-    "id": 2647310
-  },
-  {
-    "name": "Havant",
-    "country": "GB",
-    "lat": 50.856701,
-    "lon": -0.98559,
-    "id": 2647317
-  },
-  {
-    "name": "Hatfield",
-    "country": "GB",
-    "lat": 51.763378,
-    "lon": -0.22419,
-    "id": 2647349
-  },
-  {
-    "name": "Hastings",
-    "country": "GB",
-    "lat": 50.85519,
-    "lon": 0.57292,
-    "id": 2647356
-  },
-  {
-    "name": "Haslingden",
-    "country": "GB",
-    "lat": 53.703259,
-    "lon": -2.32382,
-    "id": 2647363
-  },
-  {
-    "name": "Harwich",
-    "country": "GB",
-    "lat": 51.94194,
-    "lon": 1.28437,
-    "id": 2647383
+    "id": 2647074,
+    "code": "PPLA2"
   },
   {
     "name": "Hartlepool",
     "country": "GB",
     "lat": 54.686111,
     "lon": -1.2125,
-    "id": 2647400
-  },
-  {
-    "name": "Harrogate",
-    "country": "GB",
-    "lat": 53.99078,
-    "lon": -1.5373,
-    "id": 2647428
-  },
-  {
-    "name": "Harpenden",
-    "country": "GB",
-    "lat": 51.816841,
-    "lon": -0.35706,
-    "id": 2647451
-  },
-  {
-    "name": "Harlow",
-    "country": "GB",
-    "lat": 51.77655,
-    "lon": 0.11158,
-    "id": 2647461
+    "id": 2647400,
+    "code": "PPLA2"
   },
   {
     "name": "Hamilton",
     "country": "GB",
     "lat": 55.76667,
     "lon": -4.03333,
-    "id": 2647570
+    "id": 2647570,
+    "code": "PPLA2"
   },
   {
     "name": "Halifax",
     "country": "GB",
     "lat": 53.716671,
     "lon": -1.85,
-    "id": 2647632
-  },
-  {
-    "name": "Halesowen",
-    "country": "GB",
-    "lat": 52.448589,
-    "lon": -2.04938,
-    "id": 2647639
-  },
-  {
-    "name": "Hale",
-    "country": "GB",
-    "lat": 51.216671,
-    "lon": -0.78333,
-    "id": 2647644
-  },
-  {
-    "name": "Hailsham",
-    "country": "GB",
-    "lat": 50.862202,
-    "lon": 0.25775,
-    "id": 2647655
-  },
-  {
-    "name": "Hadleigh",
-    "country": "GB",
-    "lat": 51.552689,
-    "lon": 0.60983,
-    "id": 2647679
-  },
-  {
-    "name": "Guiseley",
-    "country": "GB",
-    "lat": 53.87561,
-    "lon": -1.71232,
-    "id": 2647784
-  },
-  {
-    "name": "Guisborough",
-    "country": "GB",
-    "lat": 54.534779,
-    "lon": -1.05606,
-    "id": 2647785
-  },
-  {
-    "name": "Guildford",
-    "country": "GB",
-    "lat": 51.235359,
-    "lon": -0.57427,
-    "id": 2647793
-  },
-  {
-    "name": "Grove",
-    "country": "GB",
-    "lat": 51.609539,
-    "lon": -1.42187,
-    "id": 2647837
+    "id": 2647632,
+    "code": "PPLA2"
   },
   {
     "name": "Greenock",
     "country": "GB",
     "lat": 55.94838,
     "lon": -4.76121,
-    "id": 2647948
-  },
-  {
-    "name": "Great Yarmouth",
-    "country": "GB",
-    "lat": 52.608311,
-    "lon": 1.73052,
-    "id": 2647984
-  },
-  {
-    "name": "Great Wyrley",
-    "country": "GB",
-    "lat": 52.662769,
-    "lon": -2.01111,
-    "id": 2647985
-  },
-  {
-    "name": "Great Sankey",
-    "country": "GB",
-    "lat": 53.392342,
-    "lon": -2.63994,
-    "id": 2648026
-  },
-  {
-    "name": "Great Malvern",
-    "country": "GB",
-    "lat": 52.11161,
-    "lon": -2.32515,
-    "id": 2648063
+    "id": 2647948,
+    "code": "PPLA2"
   },
   {
     "name": "Grays",
     "country": "GB",
     "lat": 51.475658,
     "lon": 0.32521,
-    "id": 2648182
-  },
-  {
-    "name": "Gravesend",
-    "country": "GB",
-    "lat": 51.44138,
-    "lon": 0.37371,
-    "id": 2648187
-  },
-  {
-    "name": "Grantham",
-    "country": "GB",
-    "lat": 52.911491,
-    "lon": -0.64184,
-    "id": 2648208
-  },
-  {
-    "name": "Grangemouth",
-    "country": "GB",
-    "lat": 56.01141,
-    "lon": -3.72183,
-    "id": 2648215
-  },
-  {
-    "name": "Gosport",
-    "country": "GB",
-    "lat": 50.79509,
-    "lon": -1.12902,
-    "id": 2648272
-  },
-  {
-    "name": "Gosforth",
-    "country": "GB",
-    "lat": 55.0,
-    "lon": -1.61667,
-    "id": 2648273
-  },
-  {
-    "name": "Gorseinon",
-    "country": "GB",
-    "lat": 51.669312,
-    "lon": -4.04163,
-    "id": 2648290
-  },
-  {
-    "name": "Goole",
-    "country": "GB",
-    "lat": 53.716671,
-    "lon": -0.86667,
-    "id": 2648319
-  },
-  {
-    "name": "Golborne",
-    "country": "GB",
-    "lat": 53.476929,
-    "lon": -2.59651,
-    "id": 2648356
-  },
-  {
-    "name": "Godalming",
-    "country": "GB",
-    "lat": 51.18462,
-    "lon": -0.61725,
-    "id": 2648372
+    "id": 2648182,
+    "code": "PPLA2"
   },
   {
     "name": "Gloucester",
     "country": "GB",
     "lat": 51.865681,
     "lon": -2.2431,
-    "id": 2648404
-  },
-  {
-    "name": "Glossop",
-    "country": "GB",
-    "lat": 53.443249,
-    "lon": -1.949,
-    "id": 2648405
+    "id": 2648404,
+    "code": "PPLA2"
   },
   {
     "name": "Glenrothes",
     "country": "GB",
     "lat": 56.195141,
     "lon": -3.17316,
-    "id": 2648438
+    "id": 2648438,
+    "code": "PPLA2"
   },
   {
     "name": "Glasgow",
     "country": "GB",
     "lat": 55.86515,
     "lon": -4.25763,
-    "id": 2648579
-  },
-  {
-    "name": "Gillingham",
-    "country": "GB",
-    "lat": 51.389141,
-    "lon": 0.54863,
-    "id": 2648657
+    "id": 2648579,
+    "code": "PPLA2"
   },
   {
     "name": "Giffnock",
     "country": "GB",
     "lat": 55.80373,
     "lon": -4.29488,
-    "id": 2648683
-  },
-  {
-    "name": "Gelligaer",
-    "country": "GB",
-    "lat": 51.66444,
-    "lon": -3.25611,
-    "id": 2648728
+    "id": 2648683,
+    "code": "PPLA2"
   },
   {
     "name": "Gateshead",
     "country": "GB",
     "lat": 54.96209,
     "lon": -1.60168,
-    "id": 2648773
-  },
-  {
-    "name": "Garforth",
-    "country": "GB",
-    "lat": 53.791729,
-    "lon": -1.38067,
-    "id": 2648875
-  },
-  {
-    "name": "Gainsborough",
-    "country": "GB",
-    "lat": 53.383331,
-    "lon": -0.76667,
-    "id": 2648945
-  },
-  {
-    "name": "Fylde",
-    "country": "GB",
-    "lat": 53.833328,
-    "lon": -2.91667,
-    "id": 2648970
-  },
-  {
-    "name": "Frome",
-    "country": "GB",
-    "lat": 51.22834,
-    "lon": -2.32211,
-    "id": 2649024
-  },
-  {
-    "name": "Frinton-on-Sea",
-    "country": "GB",
-    "lat": 51.838772,
-    "lon": 1.24625,
-    "id": 2649049
-  },
-  {
-    "name": "Formby",
-    "country": "GB",
-    "lat": 53.553638,
-    "lon": -3.06816,
-    "id": 2649198
-  },
-  {
-    "name": "Folkestone",
-    "country": "GB",
-    "lat": 51.083328,
-    "lon": 1.18333,
-    "id": 2649258
-  },
-  {
-    "name": "Fleetwood",
-    "country": "GB",
-    "lat": 53.92527,
-    "lon": -3.01085,
-    "id": 2649312
-  },
-  {
-    "name": "Fleet",
-    "country": "GB",
-    "lat": 51.283329,
-    "lon": -0.83333,
-    "id": 2649322
-  },
-  {
-    "name": "Felling",
-    "country": "GB",
-    "lat": 54.952969,
-    "lon": -1.57152,
-    "id": 2649578
-  },
-  {
-    "name": "Felixstowe",
-    "country": "GB",
-    "lat": 51.963749,
-    "lon": 1.3511,
-    "id": 2649579
-  },
-  {
-    "name": "Faversham",
-    "country": "GB",
-    "lat": 51.3148,
-    "lon": 0.88856,
-    "id": 2649622
-  },
-  {
-    "name": "Farnworth",
-    "country": "GB",
-    "lat": 53.549999,
-    "lon": -2.4,
-    "id": 2649650
-  },
-  {
-    "name": "Farnham",
-    "country": "GB",
-    "lat": 51.214329,
-    "lon": -0.79587,
-    "id": 2649660
-  },
-  {
-    "name": "Farnborough",
-    "country": "GB",
-    "lat": 51.294239,
-    "lon": -0.75565,
-    "id": 2649672
-  },
-  {
-    "name": "Fareham",
-    "country": "GB",
-    "lat": 50.85162,
-    "lon": -1.17929,
-    "id": 2649692
-  },
-  {
-    "name": "Falmouth",
-    "country": "GB",
-    "lat": 50.154411,
-    "lon": -5.07113,
-    "id": 2649715
+    "id": 2648773,
+    "code": "PPLA2"
   },
   {
     "name": "Falkirk",
     "country": "GB",
     "lat": 55.999168,
     "lon": -3.78713,
-    "id": 2649723
-  },
-  {
-    "name": "Failsworth",
-    "country": "GB",
-    "lat": 53.51667,
-    "lon": -2.13333,
-    "id": 2649750
-  },
-  {
-    "name": "Exmouth",
-    "country": "GB",
-    "lat": 50.617229,
-    "lon": -3.40233,
-    "id": 2649800
+    "id": 2649723,
+    "code": "PPLA2"
   },
   {
     "name": "Exeter",
     "country": "GB",
     "lat": 50.723598,
     "lon": -3.52751,
-    "id": 2649808
-  },
-  {
-    "name": "Evesham",
-    "country": "GB",
-    "lat": 52.092369,
-    "lon": -1.94887,
-    "id": 2649833
-  },
-  {
-    "name": "Esher",
-    "country": "GB",
-    "lat": 51.369259,
-    "lon": -0.36572,
-    "id": 2649911
-  },
-  {
-    "name": "Epsom",
-    "country": "GB",
-    "lat": 51.330502,
-    "lon": -0.27011,
-    "id": 2649957
-  },
-  {
-    "name": "Emsworth",
-    "country": "GB",
-    "lat": 50.84779,
-    "lon": -0.93697,
-    "id": 2650004
-  },
-  {
-    "name": "Ellesmere Port",
-    "country": "GB",
-    "lat": 53.278751,
-    "lon": -2.90134,
-    "id": 2650096
+    "id": 2649808,
+    "code": "PPLA2"
   },
   {
     "name": "Elgin",
     "country": "GB",
     "lat": 57.650002,
     "lon": -3.33333,
-    "id": 2650122
-  },
-  {
-    "name": "Egham",
-    "country": "GB",
-    "lat": 51.43158,
-    "lon": -0.55239,
-    "id": 2650188
+    "id": 2650122,
+    "code": "PPLA2"
   },
   {
     "name": "Edinburgh",
     "country": "GB",
     "lat": 55.952061,
     "lon": -3.19648,
-    "id": 2650225
-  },
-  {
-    "name": "Eccles",
-    "country": "GB",
-    "lat": 53.48333,
-    "lon": -2.33333,
-    "id": 2650278
+    "id": 2650225,
+    "code": "PPLA"
   },
   {
     "name": "Ebbw Vale",
     "country": "GB",
     "lat": 51.777142,
     "lon": -3.20792,
-    "id": 2650285
-  },
-  {
-    "name": "Eastwood",
-    "country": "GB",
-    "lat": 53.0,
-    "lon": -1.3,
-    "id": 2650309
-  },
-  {
-    "name": "Retford",
-    "country": "GB",
-    "lat": 53.322128,
-    "lon": -0.94315,
-    "id": 2650346
-  },
-  {
-    "name": "East Molesey",
-    "country": "GB",
-    "lat": 51.39872,
-    "lon": -0.34916,
-    "id": 2650376
-  },
-  {
-    "name": "Eastleigh",
-    "country": "GB",
-    "lat": 50.966671,
-    "lon": -1.35,
-    "id": 2650396
-  },
-  {
-    "name": "East Kilbride",
-    "country": "GB",
-    "lat": 55.76667,
-    "lon": -4.16667,
-    "id": 2650405
-  },
-  {
-    "name": "East Grinstead",
-    "country": "GB",
-    "lat": 51.123821,
-    "lon": -0.0061,
-    "id": 2650435
-  },
-  {
-    "name": "East Dereham",
-    "country": "GB",
-    "lat": 52.683331,
-    "lon": 0.93333,
-    "id": 2650470
-  },
-  {
-    "name": "Eastbourne",
-    "country": "GB",
-    "lat": 50.768711,
-    "lon": 0.28453,
-    "id": 2650497
+    "id": 2650285,
+    "code": "PPLA2"
   },
   {
     "name": "Durham",
     "country": "GB",
     "lat": 54.77676,
     "lon": -1.57566,
-    "id": 2650628
-  },
-  {
-    "name": "Dunstable",
-    "country": "GB",
-    "lat": 51.886002,
-    "lon": -0.52099,
-    "id": 2650657
-  },
-  {
-    "name": "Dunfermline",
-    "country": "GB",
-    "lat": 56.07156,
-    "lon": -3.45887,
-    "id": 2650732
+    "id": 2650628,
+    "code": "PPLA2"
   },
   {
     "name": "Dundee",
     "country": "GB",
     "lat": 56.5,
     "lon": -2.96667,
-    "id": 2650752
+    "id": 2650752,
+    "code": "PPLA2"
   },
   {
     "name": "Dumbarton",
     "country": "GB",
     "lat": 55.944328,
     "lon": -4.57061,
-    "id": 2650802
-  },
-  {
-    "name": "Dukinfield",
-    "country": "GB",
-    "lat": 53.474972,
-    "lon": -2.08809,
-    "id": 2650815
+    "id": 2650802,
+    "code": "PPLA2"
   },
   {
     "name": "Dudley",
     "country": "GB",
     "lat": 52.5,
     "lon": -2.08333,
-    "id": 2650839
-  },
-  {
-    "name": "Droylsden",
-    "country": "GB",
-    "lat": 53.480049,
-    "lon": -2.14543,
-    "id": 2650962
-  },
-  {
-    "name": "Dronfield",
-    "country": "GB",
-    "lat": 53.302212,
-    "lon": -1.47507,
-    "id": 2650967
-  },
-  {
-    "name": "Droitwich",
-    "country": "GB",
-    "lat": 52.26667,
-    "lon": -2.15,
-    "id": 2650983
-  },
-  {
-    "name": "Dover",
-    "country": "GB",
-    "lat": 51.133331,
-    "lon": 1.3,
-    "id": 2651048
-  },
-  {
-    "name": "Dorking",
-    "country": "GB",
-    "lat": 51.232899,
-    "lon": -0.32942,
-    "id": 2651095
+    "id": 2650839,
+    "code": "PPLA2"
   },
   {
     "name": "Dorchester",
     "country": "GB",
     "lat": 50.716671,
     "lon": -2.43333,
-    "id": 2651101
+    "id": 2651101,
+    "code": "PPLA2"
   },
   {
     "name": "Doncaster",
     "country": "GB",
     "lat": 53.52327,
     "lon": -1.13691,
-    "id": 2651123
-  },
-  {
-    "name": "Didcot",
-    "country": "GB",
-    "lat": 51.60928,
-    "lon": -1.24214,
-    "id": 2651269
-  },
-  {
-    "name": "Dewsbury",
-    "country": "GB",
-    "lat": 53.690762,
-    "lon": -1.62907,
-    "id": 2651286
+    "id": 2651123,
+    "code": "PPLA2"
   },
   {
     "name": "Derby",
     "country": "GB",
     "lat": 52.922771,
     "lon": -1.47663,
-    "id": 2651347
-  },
-  {
-    "name": "Denton",
-    "country": "GB",
-    "lat": 53.456779,
-    "lon": -2.11822,
-    "id": 2651357
-  },
-  {
-    "name": "Deal",
-    "country": "GB",
-    "lat": 51.223221,
-    "lon": 1.40432,
-    "id": 2651468
-  },
-  {
-    "name": "Daventry",
-    "country": "GB",
-    "lat": 52.256882,
-    "lon": -1.16066,
-    "id": 2651485
-  },
-  {
-    "name": "Darwen",
-    "country": "GB",
-    "lat": 53.698029,
-    "lon": -2.46494,
-    "id": 2651495
-  },
-  {
-    "name": "Darton",
-    "country": "GB",
-    "lat": 53.587051,
-    "lon": -1.52676,
-    "id": 2651497
-  },
-  {
-    "name": "Dartford",
-    "country": "GB",
-    "lat": 51.44352,
-    "lon": 0.21964,
-    "id": 2651500
+    "id": 2651347,
+    "code": "PPLA2"
   },
   {
     "name": "Darlington",
     "country": "GB",
     "lat": 54.524288,
     "lon": -1.55039,
-    "id": 2651513
-  },
-  {
-    "name": "Dagenham",
-    "country": "GB",
-    "lat": 51.549999,
-    "lon": 0.16667,
-    "id": 2651621
-  },
-  {
-    "name": "Cwmbran",
-    "country": "GB",
-    "lat": 51.654461,
-    "lon": -3.02281,
-    "id": 2651654
-  },
-  {
-    "name": "Cumbernauld",
-    "country": "GB",
-    "lat": 55.94685,
-    "lon": -3.99051,
-    "id": 2651715
-  },
-  {
-    "name": "Crowthorne",
-    "country": "GB",
-    "lat": 51.37027,
-    "lon": -0.79219,
-    "id": 2651831
-  },
-  {
-    "name": "Crowborough",
-    "country": "GB",
-    "lat": 51.06044,
-    "lon": 0.16171,
-    "id": 2651852
-  },
-  {
-    "name": "Crewe",
-    "country": "GB",
-    "lat": 53.09787,
-    "lon": -2.44161,
-    "id": 2652002
-  },
-  {
-    "name": "Crawley",
-    "country": "GB",
-    "lat": 51.113029,
-    "lon": -0.18312,
-    "id": 2652053
-  },
-  {
-    "name": "Cramlington",
-    "country": "GB",
-    "lat": 55.086521,
-    "lon": -1.58598,
-    "id": 2652095
-  },
-  {
-    "name": "Cowley",
-    "country": "GB",
-    "lat": 51.731392,
-    "lon": -1.20742,
-    "id": 2652191
-  },
-  {
-    "name": "Cowes",
-    "country": "GB",
-    "lat": 50.763062,
-    "lon": -1.29772,
-    "id": 2652204
+    "id": 2651513,
+    "code": "PPLA2"
   },
   {
     "name": "Coventry",
     "country": "GB",
     "lat": 52.406559,
     "lon": -1.51217,
-    "id": 2652221
-  },
-  {
-    "name": "Corby",
-    "country": "GB",
-    "lat": 52.496368,
-    "lon": -0.68939,
-    "id": 2652381
-  },
-  {
-    "name": "Consett",
-    "country": "GB",
-    "lat": 54.854038,
-    "lon": -1.8316,
-    "id": 2652437
-  },
-  {
-    "name": "Conisbrough",
-    "country": "GB",
-    "lat": 53.48188,
-    "lon": -1.23214,
-    "id": 2652458
-  },
-  {
-    "name": "Congleton",
-    "country": "GB",
-    "lat": 53.163139,
-    "lon": -2.21253,
-    "id": 2652464
-  },
-  {
-    "name": "Colwyn Bay",
-    "country": "GB",
-    "lat": 53.29483,
-    "lon": -3.72674,
-    "id": 2652513
-  },
-  {
-    "name": "Colne",
-    "country": "GB",
-    "lat": 53.857128,
-    "lon": -2.16851,
-    "id": 2652544
+    "id": 2652221,
+    "code": "PPLA2"
   },
   {
     "name": "Coleraine",
     "country": "GB",
     "lat": 55.133331,
     "lon": -6.66667,
-    "id": 2652586
-  },
-  {
-    "name": "Colchester",
-    "country": "GB",
-    "lat": 51.88921,
-    "lon": 0.90421,
-    "id": 2652618
-  },
-  {
-    "name": "Coity",
-    "country": "GB",
-    "lat": 51.521999,
-    "lon": -3.55531,
-    "id": 2652622
-  },
-  {
-    "name": "Cobham",
-    "country": "GB",
-    "lat": 51.329971,
-    "lon": -0.4113,
-    "id": 2652689
-  },
-  {
-    "name": "Coatbridge",
-    "country": "GB",
-    "lat": 55.86216,
-    "lon": -4.02469,
-    "id": 2652696
-  },
-  {
-    "name": "Coalville",
-    "country": "GB",
-    "lat": 52.716671,
-    "lon": -1.36667,
-    "id": 2652698
-  },
-  {
-    "name": "Clydebank",
-    "country": "GB",
-    "lat": 55.901371,
-    "lon": -4.4057,
-    "id": 2652730
-  },
-  {
-    "name": "Clydach",
-    "country": "GB",
-    "lat": 51.683331,
-    "lon": -3.9,
-    "id": 2652734
-  },
-  {
-    "name": "Clitheroe",
-    "country": "GB",
-    "lat": 53.866669,
-    "lon": -2.4,
-    "id": 2652819
-  },
-  {
-    "name": "Clevedon",
-    "country": "GB",
-    "lat": 51.440571,
-    "lon": -2.85745,
-    "id": 2652861
-  },
-  {
-    "name": "Cleethorpes",
-    "country": "GB",
-    "lat": 53.560471,
-    "lon": -0.03225,
-    "id": 2652885
-  },
-  {
-    "name": "Cleckheaton",
-    "country": "GB",
-    "lat": 53.724049,
-    "lon": -1.71294,
-    "id": 2652890
-  },
-  {
-    "name": "Clacton-on-Sea",
-    "country": "GB",
-    "lat": 51.789669,
-    "lon": 1.15597,
-    "id": 2652974
-  },
-  {
-    "name": "Cirencester",
-    "country": "GB",
-    "lat": 51.717079,
-    "lon": -1.96825,
-    "id": 2652995
-  },
-  {
-    "name": "Christchurch",
-    "country": "GB",
-    "lat": 50.733059,
-    "lon": -1.77567,
-    "id": 2653075
-  },
-  {
-    "name": "Chorley",
-    "country": "GB",
-    "lat": 53.650002,
-    "lon": -2.61667,
-    "id": 2653086
-  },
-  {
-    "name": "Chipping Sodbury",
-    "country": "GB",
-    "lat": 51.538132,
-    "lon": -2.39379,
-    "id": 2653137
-  },
-  {
-    "name": "Chippenham",
-    "country": "GB",
-    "lat": 51.459999,
-    "lon": -2.12472,
-    "id": 2653144
+    "id": 2652586,
+    "code": "PPLA2"
   },
   {
     "name": "Chichester",
     "country": "GB",
     "lat": 50.836731,
     "lon": -0.78003,
-    "id": 2653192
-  },
-  {
-    "name": "Chester-le-Street",
-    "country": "GB",
-    "lat": 54.85862,
-    "lon": -1.57408,
-    "id": 2653224
-  },
-  {
-    "name": "Chesterfield",
-    "country": "GB",
-    "lat": 53.25,
-    "lon": -1.41667,
-    "id": 2653225
+    "id": 2653192,
+    "code": "PPLA2"
   },
   {
     "name": "Chester",
     "country": "GB",
     "lat": 53.190498,
     "lon": -2.89189,
-    "id": 2653228
-  },
-  {
-    "name": "Cheshunt",
-    "country": "GB",
-    "lat": 51.707909,
-    "lon": -0.03739,
-    "id": 2653232
-  },
-  {
-    "name": "Chesham",
-    "country": "GB",
-    "lat": 51.700001,
-    "lon": -0.6,
-    "id": 2653235
-  },
-  {
-    "name": "Cheltenham",
-    "country": "GB",
-    "lat": 51.900002,
-    "lon": -2.08333,
-    "id": 2653261
-  },
-  {
-    "name": "Chelsea",
-    "country": "GB",
-    "lat": 51.487549,
-    "lon": -0.16936,
-    "id": 2653265
+    "id": 2653228,
+    "code": "PPLA2"
   },
   {
     "name": "Chelmsford",
     "country": "GB",
     "lat": 51.735748,
     "lon": 0.46958,
-    "id": 2653266
-  },
-  {
-    "name": "Cheadle Hulme",
-    "country": "GB",
-    "lat": 53.376099,
-    "lon": -2.1897,
-    "id": 2653290
-  },
-  {
-    "name": "Chatham",
-    "country": "GB",
-    "lat": 51.37891,
-    "lon": 0.52786,
-    "id": 2653305
-  },
-  {
-    "name": "Chapletown",
-    "country": "GB",
-    "lat": 53.465061,
-    "lon": -1.47217,
-    "id": 2653353
-  },
-  {
-    "name": "Chalfont Saint Peter",
-    "country": "GB",
-    "lat": 51.608849,
-    "lon": -0.55618,
-    "id": 2653393
-  },
-  {
-    "name": "Caterham",
-    "country": "GB",
-    "lat": 51.282299,
-    "lon": -0.07889,
-    "id": 2653520
+    "id": 2653266,
+    "code": "PPLA2"
   },
   {
     "name": "Castlereagh",
     "country": "GB",
     "lat": 54.573502,
     "lon": -5.88472,
-    "id": 2653558
-  },
-  {
-    "name": "Castleford",
-    "country": "GB",
-    "lat": 53.725868,
-    "lon": -1.36256,
-    "id": 2653584
+    "id": 2653558,
+    "code": "PPLA2"
   },
   {
     "name": "Carrickfergus",
     "country": "GB",
     "lat": 54.715801,
     "lon": -5.8058,
-    "id": 2653680
+    "id": 2653680,
+    "code": "PPLA2"
   },
   {
     "name": "Carmarthen",
     "country": "GB",
     "lat": 51.855518,
     "lon": -4.30535,
-    "id": 2653755
+    "id": 2653755,
+    "code": "PPLA2"
   },
   {
     "name": "Carlisle",
     "country": "GB",
     "lat": 54.8951,
     "lon": -2.9382,
-    "id": 2653775
+    "id": 2653775,
+    "code": "PPLA2"
   },
   {
     "name": "Cardiff",
     "country": "GB",
     "lat": 51.48,
     "lon": -3.18,
-    "id": 2653822
-  },
-  {
-    "name": "Canterbury",
-    "country": "GB",
-    "lat": 51.279041,
-    "lon": 1.07992,
-    "id": 2653877
-  },
-  {
-    "name": "Cannock",
-    "country": "GB",
-    "lat": 52.690449,
-    "lon": -2.03085,
-    "id": 2653883
+    "id": 2653822,
+    "code": "PPLA"
   },
   {
     "name": "Cambridge",
     "country": "GB",
     "lat": 52.200001,
     "lon": 0.11667,
-    "id": 2653941
-  },
-  {
-    "name": "Camborne",
-    "country": "GB",
-    "lat": 50.213058,
-    "lon": -5.29731,
-    "id": 2653945
-  },
-  {
-    "name": "Camberley",
-    "country": "GB",
-    "lat": 51.337051,
-    "lon": -0.74261,
-    "id": 2653947
-  },
-  {
-    "name": "Caerphilly",
-    "country": "GB",
-    "lat": 51.57452,
-    "lon": -3.218,
-    "id": 2654089
-  },
-  {
-    "name": "Buxton",
-    "country": "GB",
-    "lat": 53.257408,
-    "lon": -1.90982,
-    "id": 2654141
-  },
-  {
-    "name": "Bushey",
-    "country": "GB",
-    "lat": 51.643162,
-    "lon": -0.36053,
-    "id": 2654179
-  },
-  {
-    "name": "Bury St Edmunds",
-    "country": "GB",
-    "lat": 52.2463,
-    "lon": 0.71111,
-    "id": 2654186
+    "id": 2653941,
+    "code": "PPLA2"
   },
   {
     "name": "Bury",
     "country": "GB",
     "lat": 53.599998,
     "lon": -2.3,
-    "id": 2654187
-  },
-  {
-    "name": "Burton upon Trent",
-    "country": "GB",
-    "lat": 52.807281,
-    "lon": -1.64263,
-    "id": 2654200
-  },
-  {
-    "name": "Burntwood",
-    "country": "GB",
-    "lat": 52.680752,
-    "lon": -1.92759,
-    "id": 2654252
-  },
-  {
-    "name": "Burnley",
-    "country": "GB",
-    "lat": 53.799999,
-    "lon": -2.23333,
-    "id": 2654264
-  },
-  {
-    "name": "Burnham-on-Sea",
-    "country": "GB",
-    "lat": 51.238621,
-    "lon": -2.9978,
-    "id": 2654269
-  },
-  {
-    "name": "Burgess Hill",
-    "country": "GB",
-    "lat": 50.958431,
-    "lon": -0.13287,
-    "id": 2654308
-  },
-  {
-    "name": "Buckley",
-    "country": "GB",
-    "lat": 53.166672,
-    "lon": -3.08333,
-    "id": 2654394
-  },
-  {
-    "name": "Buckhaven",
-    "country": "GB",
-    "lat": 56.17149,
-    "lon": -3.03377,
-    "id": 2654415
-  },
-  {
-    "name": "Brymbo",
-    "country": "GB",
-    "lat": 53.066669,
-    "lon": -3.06667,
-    "id": 2654450
-  },
-  {
-    "name": "Brownhills",
-    "country": "GB",
-    "lat": 52.633331,
-    "lon": -1.93333,
-    "id": 2654490
-  },
-  {
-    "name": "Bromsgrove",
-    "country": "GB",
-    "lat": 52.335739,
-    "lon": -2.05983,
-    "id": 2654579
-  },
-  {
-    "name": "Broadstairs",
-    "country": "GB",
-    "lat": 51.359081,
-    "lon": 1.43938,
-    "id": 2654635
-  },
-  {
-    "name": "Brixham",
-    "country": "GB",
-    "lat": 50.39431,
-    "lon": -3.51585,
-    "id": 2654663
-  },
-  {
-    "name": "Briton Ferry",
-    "country": "GB",
-    "lat": 51.631062,
-    "lon": -3.81898,
-    "id": 2654668
+    "id": 2654187,
+    "code": "PPLA2"
   },
   {
     "name": "Bristol",
     "country": "GB",
     "lat": 51.455231,
     "lon": -2.59665,
-    "id": 2654675
-  },
-  {
-    "name": "Brighton",
-    "country": "GB",
-    "lat": 50.828381,
-    "lon": -0.13947,
-    "id": 2654710
-  },
-  {
-    "name": "Brighouse",
-    "country": "GB",
-    "lat": 53.70322,
-    "lon": -1.78428,
-    "id": 2654715
-  },
-  {
-    "name": "Brierley Hill",
-    "country": "GB",
-    "lat": 52.481731,
-    "lon": -2.12139,
-    "id": 2654724
-  },
-  {
-    "name": "Bridlington",
-    "country": "GB",
-    "lat": 54.083061,
-    "lon": -0.19192,
-    "id": 2654728
-  },
-  {
-    "name": "Bridgwater",
-    "country": "GB",
-    "lat": 51.128368,
-    "lon": -3.00356,
-    "id": 2654730
+    "id": 2654675,
+    "code": "PPLA2"
   },
   {
     "name": "Bridgend",
     "country": "GB",
     "lat": 51.505829,
     "lon": -3.57722,
-    "id": 2654755
-  },
-  {
-    "name": "Brentwood",
-    "country": "GB",
-    "lat": 51.621269,
-    "lon": 0.30556,
-    "id": 2654782
-  },
-  {
-    "name": "Bramhall",
-    "country": "GB",
-    "lat": 53.358009,
-    "lon": -2.16539,
-    "id": 2654927
-  },
-  {
-    "name": "Braintree",
-    "country": "GB",
-    "lat": 51.878189,
-    "lon": 0.55292,
-    "id": 2654938
+    "id": 2654755,
+    "code": "PPLA2"
   },
   {
     "name": "Bradford",
     "country": "GB",
     "lat": 53.793911,
     "lon": -1.75206,
-    "id": 2654993
+    "id": 2654993,
+    "code": "PPLA2"
   },
   {
     "name": "Bracknell",
     "country": "GB",
     "lat": 51.413631,
     "lon": -0.75054,
-    "id": 2655009
+    "id": 2655009,
+    "code": "PPLA2"
   },
   {
     "name": "Bournemouth",
     "country": "GB",
     "lat": 50.720482,
     "lon": -1.8795,
-    "id": 2655095
-  },
-  {
-    "name": "Boston",
-    "country": "GB",
-    "lat": 52.97633,
-    "lon": -0.02664,
-    "id": 2655138
-  },
-  {
-    "name": "Borehamwood",
-    "country": "GB",
-    "lat": 51.654678,
-    "lon": -0.27762,
-    "id": 2655186
-  },
-  {
-    "name": "Bootle",
-    "country": "GB",
-    "lat": 53.466671,
-    "lon": -3.01667,
-    "id": 2655198
+    "id": 2655095,
+    "code": "PPLA2"
   },
   {
     "name": "Bolton",
     "country": "GB",
     "lat": 53.583328,
     "lon": -2.43333,
-    "id": 2655237
-  },
-  {
-    "name": "Bognor Regis",
-    "country": "GB",
-    "lat": 50.782059,
-    "lon": -0.67978,
-    "id": 2655262
-  },
-  {
-    "name": "Blyth",
-    "country": "GB",
-    "lat": 55.127079,
-    "lon": -1.50856,
-    "id": 2655315
-  },
-  {
-    "name": "Bloxwich",
-    "country": "GB",
-    "lat": 52.618061,
-    "lon": -2.00431,
-    "id": 2655329
-  },
-  {
-    "name": "Bletchley",
-    "country": "GB",
-    "lat": 51.99334,
-    "lon": -0.73471,
-    "id": 2655351
+    "id": 2655237,
+    "code": "PPLA2"
   },
   {
     "name": "Blackpool",
     "country": "GB",
     "lat": 53.816669,
     "lon": -3.05,
-    "id": 2655459
+    "id": 2655459,
+    "code": "PPLA2"
   },
   {
     "name": "Blackburn",
     "country": "GB",
     "lat": 53.75,
     "lon": -2.48333,
-    "id": 2655524
-  },
-  {
-    "name": "Bishopstoke",
-    "country": "GB",
-    "lat": 50.966431,
-    "lon": -1.32832,
-    "id": 2655557
-  },
-  {
-    "name": "Bishops Stortford",
-    "country": "GB",
-    "lat": 51.871132,
-    "lon": 0.15868,
-    "id": 2655562
-  },
-  {
-    "name": "Bishopbriggs",
-    "country": "GB",
-    "lat": 55.906689,
-    "lon": -4.21869,
-    "id": 2655582
-  },
-  {
-    "name": "Bishop Auckland",
-    "country": "GB",
-    "lat": 54.65554,
-    "lon": -1.67706,
-    "id": 2655583
+    "id": 2655524,
+    "code": "PPLA2"
   },
   {
     "name": "Birmingham",
     "country": "GB",
     "lat": 52.481419,
     "lon": -1.89983,
-    "id": 2655603
-  },
-  {
-    "name": "Birkenhead",
-    "country": "GB",
-    "lat": 53.393372,
-    "lon": -3.01479,
-    "id": 2655613
-  },
-  {
-    "name": "Bingley",
-    "country": "GB",
-    "lat": 53.84861,
-    "lon": -1.83857,
-    "id": 2655642
-  },
-  {
-    "name": "Billingham",
-    "country": "GB",
-    "lat": 54.60828,
-    "lon": -1.29214,
-    "id": 2655664
-  },
-  {
-    "name": "Billericay",
-    "country": "GB",
-    "lat": 51.62867,
-    "lon": 0.41963,
-    "id": 2655672
-  },
-  {
-    "name": "Biggleswade",
-    "country": "GB",
-    "lat": 52.086521,
-    "lon": -0.26493,
-    "id": 2655689
-  },
-  {
-    "name": "Bideford",
-    "country": "GB",
-    "lat": 51.017872,
-    "lon": -4.20458,
-    "id": 2655707
-  },
-  {
-    "name": "Biddulph",
-    "country": "GB",
-    "lat": 53.117241,
-    "lon": -2.17584,
-    "id": 2655708
-  },
-  {
-    "name": "Bicester",
-    "country": "GB",
-    "lat": 51.899979,
-    "lon": -1.15357,
-    "id": 2655729
-  },
-  {
-    "name": "Bexhill-on-Sea",
-    "country": "GB",
-    "lat": 50.850231,
-    "lon": 0.47095,
-    "id": 2655777
+    "id": 2655603,
+    "code": "PPLA2"
   },
   {
     "name": "Beverley",
     "country": "GB",
     "lat": 53.845871,
     "lon": -0.42332,
-    "id": 2655785
-  },
-  {
-    "name": "Berwick-Upon-Tweed",
-    "country": "GB",
-    "lat": 55.783329,
-    "lon": -2.0,
-    "id": 2655819
-  },
-  {
-    "name": "Berkhamsted",
-    "country": "GB",
-    "lat": 51.760399,
-    "lon": -0.56528,
-    "id": 2655858
-  },
-  {
-    "name": "Bentley",
-    "country": "GB",
-    "lat": 53.533329,
-    "lon": -1.15,
-    "id": 2655882
-  },
-  {
-    "name": "Belper",
-    "country": "GB",
-    "lat": 53.0233,
-    "lon": -1.48119,
-    "id": 2655942
-  },
-  {
-    "name": "Bellshill",
-    "country": "GB",
-    "lat": 55.816669,
-    "lon": -4.01667,
-    "id": 2655952
+    "id": 2655785,
+    "code": "PPLA2"
   },
   {
     "name": "Belfast",
     "country": "GB",
     "lat": 54.583328,
     "lon": -5.93333,
-    "id": 2655984
-  },
-  {
-    "name": "Bedworth",
-    "country": "GB",
-    "lat": 52.479099,
-    "lon": -1.46909,
-    "id": 2656031
-  },
-  {
-    "name": "Bedlington",
-    "country": "GB",
-    "lat": 55.130611,
-    "lon": -1.59319,
-    "id": 2656039
+    "id": 2655984,
+    "code": "PPLA"
   },
   {
     "name": "Bedford",
     "country": "GB",
     "lat": 52.13459,
     "lon": -0.46632,
-    "id": 2656046
-  },
-  {
-    "name": "Bebington",
-    "country": "GB",
-    "lat": 53.349998,
-    "lon": -3.01667,
-    "id": 2656070
-  },
-  {
-    "name": "Bearsden",
-    "country": "GB",
-    "lat": 55.915359,
-    "lon": -4.33279,
-    "id": 2656086
-  },
-  {
-    "name": "Batley",
-    "country": "GB",
-    "lat": 53.702911,
-    "lon": -1.6337,
-    "id": 2656168
-  },
-  {
-    "name": "Bathgate",
-    "country": "GB",
-    "lat": 55.902039,
-    "lon": -3.64398,
-    "id": 2656169
+    "id": 2656046,
+    "code": "PPLA2"
   },
   {
     "name": "Bath",
     "country": "GB",
     "lat": 51.377949,
     "lon": -2.35907,
-    "id": 2656173
-  },
-  {
-    "name": "Basingstoke",
-    "country": "GB",
-    "lat": 51.262489,
-    "lon": -1.08708,
-    "id": 2656192
-  },
-  {
-    "name": "Basildon",
-    "country": "GB",
-    "lat": 51.568439,
-    "lon": 0.45782,
-    "id": 2656194
+    "id": 2656173,
+    "code": "PPLA2"
   },
   {
     "name": "Barry",
     "country": "GB",
     "lat": 51.40667,
     "lon": -3.26944,
-    "id": 2656235
-  },
-  {
-    "name": "Barrow in Furness",
-    "country": "GB",
-    "lat": 54.116669,
-    "lon": -3.23333,
-    "id": 2656241
-  },
-  {
-    "name": "Barrhead",
-    "country": "GB",
-    "lat": 55.79916,
-    "lon": -4.39285,
-    "id": 2656258
-  },
-  {
-    "name": "Barnstaple",
-    "country": "GB",
-    "lat": 51.080219,
-    "lon": -4.05808,
-    "id": 2656281
+    "id": 2656235,
+    "code": "PPLA2"
   },
   {
     "name": "Barnsley",
     "country": "GB",
     "lat": 53.549999,
     "lon": -1.48333,
-    "id": 2656284
-  },
-  {
-    "name": "Banstead",
-    "country": "GB",
-    "lat": 51.325031,
-    "lon": -0.19569,
-    "id": 2656379
+    "id": 2656284,
+    "code": "PPLA2"
   },
   {
     "name": "Bangor",
     "country": "GB",
     "lat": 54.653381,
     "lon": -5.66895,
-    "id": 2656396
-  },
-  {
-    "name": "Bangor",
-    "country": "GB",
-    "lat": 53.226471,
-    "lon": -4.13459,
-    "id": 2656397
-  },
-  {
-    "name": "Banbury",
-    "country": "GB",
-    "lat": 52.0602,
-    "lon": -1.34029,
-    "id": 2656406
+    "id": 2656396,
+    "code": "PPLA2"
   },
   {
     "name": "Banbridge",
     "country": "GB",
     "lat": 54.349998,
     "lon": -6.28333,
-    "id": 2656407
+    "id": 2656407,
+    "code": "PPLA2"
   },
   {
     "name": "Ballymena",
     "country": "GB",
     "lat": 54.863571,
     "lon": -6.27628,
-    "id": 2656490
-  },
-  {
-    "name": "Baildon",
-    "country": "GB",
-    "lat": 53.847111,
-    "lon": -1.78785,
-    "id": 2656627
+    "id": 2656490,
+    "code": "PPLA2"
   },
   {
     "name": "Ayr",
     "country": "GB",
     "lat": 55.46273,
     "lon": -4.63393,
-    "id": 2656708
+    "id": 2656708,
+    "code": "PPLA2"
   },
   {
     "name": "Aylesbury",
     "country": "GB",
     "lat": 51.81665,
     "lon": -0.81458,
-    "id": 2656719
-  },
-  {
-    "name": "Atherton",
-    "country": "GB",
-    "lat": 53.523708,
-    "lon": -2.49354,
-    "id": 2656847
+    "id": 2656719,
+    "code": "PPLA2"
   },
   {
     "name": "Ashton-under-Lyne",
     "country": "GB",
     "lat": 53.488762,
     "lon": -2.0989,
-    "id": 2656915
-  },
-  {
-    "name": "Ashton in Makerfield",
-    "country": "GB",
-    "lat": 53.48333,
-    "lon": -2.65,
-    "id": 2656918
-  },
-  {
-    "name": "Ashford",
-    "country": "GB",
-    "lat": 51.145859,
-    "lon": 0.87281,
-    "id": 2656955
-  },
-  {
-    "name": "Ascot",
-    "country": "GB",
-    "lat": 51.41082,
-    "lon": -0.6748,
-    "id": 2656992
-  },
-  {
-    "name": "Arnold",
-    "country": "GB",
-    "lat": 53.0,
-    "lon": -1.13333,
-    "id": 2657030
-  },
-  {
-    "name": "Arbroath",
-    "country": "GB",
-    "lat": 56.563171,
-    "lon": -2.58736,
-    "id": 2657215
+    "id": 2656915,
+    "code": "PPLA2"
   },
   {
     "name": "Antrim",
     "country": "GB",
     "lat": 54.700001,
     "lon": -6.2,
-    "id": 2657255
-  },
-  {
-    "name": "Andover",
-    "country": "GB",
-    "lat": 51.208279,
-    "lon": -1.48246,
-    "id": 2657324
-  },
-  {
-    "name": "Amersham",
-    "country": "GB",
-    "lat": 51.666672,
-    "lon": -0.61667,
-    "id": 2657356
-  },
-  {
-    "name": "Altrincham",
-    "country": "GB",
-    "lat": 53.38752,
-    "lon": -2.34848,
-    "id": 2657402
-  },
-  {
-    "name": "Alton",
-    "country": "GB",
-    "lat": 51.149311,
-    "lon": -0.97469,
-    "id": 2657408
+    "id": 2657255,
+    "code": "PPLA2"
   },
   {
     "name": "Alloa",
     "country": "GB",
     "lat": 56.11586,
     "lon": -3.78997,
-    "id": 2657471
-  },
-  {
-    "name": "Alfreton",
-    "country": "GB",
-    "lat": 53.0961,
-    "lon": -1.38832,
-    "id": 2657508
-  },
-  {
-    "name": "Aldridge",
-    "country": "GB",
-    "lat": 52.605492,
-    "lon": -1.91715,
-    "id": 2657528
-  },
-  {
-    "name": "Aldershot",
-    "country": "GB",
-    "lat": 51.248268,
-    "lon": -0.76389,
-    "id": 2657540
-  },
-  {
-    "name": "Airdrie",
-    "country": "GB",
-    "lat": 55.86602,
-    "lon": -3.98025,
-    "id": 2657613
-  },
-  {
-    "name": "Acton",
-    "country": "GB",
-    "lat": 51.50901,
-    "lon": -0.2762,
-    "id": 2657697
-  },
-  {
-    "name": "Accrington",
-    "country": "GB",
-    "lat": 53.753792,
-    "lon": -2.35863,
-    "id": 2657770
-  },
-  {
-    "name": "Abingdon",
-    "country": "GB",
-    "lat": 51.671089,
-    "lon": -1.28278,
-    "id": 2657780
-  },
-  {
-    "name": "Aberystwyth",
-    "country": "GB",
-    "lat": 52.415482,
-    "lon": -4.08292,
-    "id": 2657782
-  },
-  {
-    "name": "Abergele",
-    "country": "GB",
-    "lat": 53.284359,
-    "lon": -3.5822,
-    "id": 2657812
+    "id": 2657471,
+    "code": "PPLA2"
   },
   {
     "name": "Aberdeen",
     "country": "GB",
     "lat": 57.143688,
     "lon": -2.09814,
-    "id": 2657832
-  },
-  {
-    "name": "Aberdare",
-    "country": "GB",
-    "lat": 51.714378,
-    "lon": -3.44918,
-    "id": 2657835
-  },
-  {
-    "name": "Crosby",
-    "country": "GB",
-    "lat": 53.477779,
-    "lon": -3.03333,
-    "id": 3209584
-  },
-  {
-    "name": "Blackwood",
-    "country": "GB",
-    "lat": 51.667782,
-    "lon": -3.2075,
-    "id": 3345317
-  },
-  {
-    "name": "Neston",
-    "country": "GB",
-    "lat": 51.41222,
-    "lon": -2.20056,
-    "id": 3345432
-  },
-  {
-    "name": "Camden Town",
-    "country": "GB",
-    "lat": 51.540569,
-    "lon": -0.14334,
-    "id": 3345437
+    "id": 2657832,
+    "code": "PPLA2"
   },
   {
     "name": "Telford",
     "country": "GB",
     "lat": 52.67659,
     "lon": -2.44926,
-    "id": 3345439
+    "id": 3345439,
+    "code": "PPLA2"
   },
   {
     "name": "Craigavon",
     "country": "GB",
     "lat": 54.44709,
     "lon": -6.387,
-    "id": 3345440
-  },
-  {
-    "name": "Bayswater",
-    "country": "GB",
-    "lat": 51.511162,
-    "lon": -0.18426,
-    "id": 6545243
-  },
-  {
-    "name": "Yateley",
-    "country": "GB",
-    "lat": 51.343048,
-    "lon": -0.82985,
-    "id": 6620293
-  },
-  {
-    "name": "Bowthorpe",
-    "country": "GB",
-    "lat": 52.63884,
-    "lon": 1.21885,
-    "id": 6620355
-  },
-  {
-    "name": "Hedge End",
-    "country": "GB",
-    "lat": 50.912338,
-    "lon": -1.30076,
-    "id": 6620360
-  },
-  {
-    "name": "Hale",
-    "country": "GB",
-    "lat": 53.378311,
-    "lon": -2.33271,
-    "id": 6640028
-  },
-  {
-    "name": "Battersea",
-    "country": "GB",
-    "lat": 51.474751,
-    "lon": -0.15547,
-    "id": 6690602
-  },
-  {
-    "name": "Hornchurch",
-    "country": "GB",
-    "lat": 51.55685,
-    "lon": 0.21664,
-    "id": 6690863
-  },
-  {
-    "name": "Surbiton",
-    "country": "GB",
-    "lat": 51.391479,
-    "lon": -0.29825,
-    "id": 6690866
-  },
-  {
-    "name": "Ewell",
-    "country": "GB",
-    "lat": 51.34948,
-    "lon": -0.2494,
-    "id": 6690867
-  },
-  {
-    "name": "Becontree",
-    "country": "GB",
-    "lat": 51.552898,
-    "lon": 0.129,
-    "id": 6690870
-  },
-  {
-    "name": "Dagenham",
-    "country": "GB",
-    "lat": 51.540619,
-    "lon": 0.14801,
-    "id": 6690871
-  },
-  {
-    "name": "Brixton",
-    "country": "GB",
-    "lat": 51.465931,
-    "lon": -0.10652,
-    "id": 6690877
-  },
-  {
-    "name": "Bethnal Green",
-    "country": "GB",
-    "lat": 51.52718,
-    "lon": -0.06109,
-    "id": 6690989
-  },
-  {
-    "name": "Failsworth",
-    "country": "GB",
-    "lat": 53.504841,
-    "lon": -2.16568,
-    "id": 6691219
-  },
-  {
-    "name": "Radcliffe",
-    "country": "GB",
-    "lat": 53.561779,
-    "lon": -2.32455,
-    "id": 6691227
-  },
-  {
-    "name": "Heywood",
-    "country": "GB",
-    "lat": 53.592449,
-    "lon": -2.21941,
-    "id": 6691235
-  },
-  {
-    "name": "Longsight",
-    "country": "GB",
-    "lat": 53.458012,
-    "lon": -2.20104,
-    "id": 6691766
-  },
-  {
-    "name": "Heavitree",
-    "country": "GB",
-    "lat": 50.72044,
-    "lon": -3.49646,
-    "id": 6691884
-  },
-  {
-    "name": "Ferndown",
-    "country": "GB",
-    "lat": 50.80743,
-    "lon": -1.89975,
-    "id": 6691927
-  },
-  {
-    "name": "Lytham St Annes",
-    "country": "GB",
-    "lat": 53.742599,
-    "lon": -2.997,
-    "id": 6693470
-  },
-  {
-    "name": "Hadley Wood",
-    "country": "GB",
-    "lat": 51.666691,
-    "lon": -0.16981,
-    "id": 6693771
-  },
-  {
-    "name": "Chapel Allerton",
-    "country": "GB",
-    "lat": 53.82901,
-    "lon": -1.53834,
-    "id": 6695247
-  },
-  {
-    "name": "Blackheath",
-    "country": "GB",
-    "lat": 51.464699,
-    "lon": 0.0079,
-    "id": 6947041
-  },
-  {
-    "name": "Kempston Hardwick",
-    "country": "GB",
-    "lat": 52.089561,
-    "lon": -0.49908,
-    "id": 6947168
-  },
-  {
-    "name": "Mendip",
-    "country": "GB",
-    "lat": 51.237202,
-    "lon": -2.6266,
-    "id": 6947756
-  },
-  {
-    "name": "Lower Earley",
-    "country": "GB",
-    "lat": 51.427078,
-    "lon": -0.91979,
-    "id": 7290015
-  },
-  {
-    "name": "Bassetlaw District",
-    "country": "GB",
-    "lat": 53.34914,
-    "lon": -0.9785,
-    "id": 7290614
-  },
-  {
-    "name": "Bartley Green",
-    "country": "GB",
-    "lat": 52.435322,
-    "lon": -1.99707,
-    "id": 7302130
-  },
-  {
-    "name": "London Borough of Harrow",
-    "country": "GB",
-    "lat": 51.566669,
-    "lon": -0.33333,
-    "id": 7535661
-  },
-  {
-    "name": "Earlsfield",
-    "country": "GB",
-    "lat": 51.443901,
-    "lon": -0.1854,
-    "id": 8063096
-  },
-  {
-    "name": "Shirley",
-    "country": "GB",
-    "lat": 52.41074,
-    "lon": -1.81952,
-    "id": 8224782
-  },
-  {
-    "name": "Stanley",
-    "country": "GB",
-    "lat": 54.867962,
-    "lon": -1.69846,
-    "id": 8224783
+    "id": 3345440,
+    "code": "PPLA2"
   }
 ]
