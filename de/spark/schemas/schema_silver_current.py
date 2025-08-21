@@ -2,7 +2,8 @@ from pyspark.sql.types import (
     StructType, StructField, StringType, DoubleType, IntegerType, LongType
 )
 
-current_schema = StructType([
+
+silver_schema = StructType([
     StructField("coord", StructType([
         StructField("lon", DoubleType(), True),
         StructField("lat", DoubleType(), True),

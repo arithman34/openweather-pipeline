@@ -6,16 +6,15 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
 import datetime
 from pyspark.sql import SparkSession, functions as F
 
-from de.spark.schemas.schema_current import current_schema
+from de.spark.schemas.schema_silver_current import silver_schema
 from utils.openweather import get_logger
 
 
 BRONZE_DIR = "data/bronze/openweather/current"
 SILVER_DIR = "data/silver/current_weather"
 
-
 #  --- Logging ---
-logger = get_logger("transform_current_weather")
+logger = get_logger(__name__)
 
 
 # --- Spark Session ---
@@ -40,7 +39,7 @@ def transform_current_weather(spark: SparkSession) -> None:
         df_raw = (
             spark.read
             .option("recursiveFileLookup", "true")
-            .schema(current_schema)
+            .schema(silver_schema)
             .json(BRONZE_DIR)
         )
 
