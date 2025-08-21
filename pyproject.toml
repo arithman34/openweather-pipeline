@@ -1,13 +1,18 @@
-[project]
+[tool.poetry]
 name = "uk-rain-prediction"
 version = "0.1.0"
 description = "End-to-end machine learning pipeline for hourly UK rain prediction."
-authors = [{name = "Arif A. Othman", email = "arithman34@hotmail.com"}]
-license = {text = "MIT"}
+authors = ["Arif A. Othman arithman34@hotmail.com"]
+license = "MIT"
 readme = "README.md"
-requires-python = "^3.12"
-dependencies = []
 
+packages = [
+    { include = "de" },
+    { include = "utils" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.12"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
