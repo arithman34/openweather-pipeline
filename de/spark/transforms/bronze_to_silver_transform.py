@@ -13,8 +13,8 @@ from utils.openweather import get_logger
 BRONZE_DIR = "data/bronze/openweather/current"
 SILVER_DIR = "data/silver/current_weather"
 
-#  --- Logging ---
-logger = get_logger(__name__)
+# --- Logging ---
+logger = get_logger("bronze_to_silver_transform")
 
 
 # --- Spark Session ---
@@ -22,7 +22,7 @@ def get_spark_session():
     """Create and return a Spark session."""
     spark = (
         SparkSession.builder
-        .appName("openweather_transform_current_weather")
+        .appName("openweather_bronze_to_silver_transform")
         .getOrCreate()
     )
 
@@ -31,10 +31,11 @@ def get_spark_session():
 
 
 # --- Transformations ---
-def transform_current_weather(spark: SparkSession) -> None:
+def transform_bronze_to_silver(spark: SparkSession) -> None:
     """Transform current weather data from bronze to silver layer."""
     start_time = datetime.datetime.now()
     logger.info("Starting transformation of current weather data...")
+
     try:
         df_raw = (
             spark.read
@@ -44,8 +45,9 @@ def transform_current_weather(spark: SparkSession) -> None:
         )
 
         # If rain is not present, set it to 0.0
-        df_raw = df_raw.withColumn("rain_1h",F.coalesce(F.col("rain.`1h`"), F.lit(0.0)))
-        
+        df_raw = df_raw.withColumn("rain_1h", F.coalesce(F.col("rain.`1h`"), F.lit(0.0)))
+
+        # Select relevant fields
         df = df_raw.select(
             F.col("id").alias("city_id"),
             F.col("name").alias("city_name"),
@@ -70,28 +72,29 @@ def transform_current_weather(spark: SparkSession) -> None:
             .withColumn("date", F.to_date("timestamp"))
             .withColumn("hour", F.hour("timestamp"))
             .withColumn("city_name", F.regexp_replace(F.col("city_name"), r"[/\\\s:]", "_"))  # Replace invalid characters
-            .filter(F.col("date").isNotNull() & F.col("city_name").isNotNull())
+            .filter(F.col("date").isNotNull() & F.col("city_id").isNotNull())
         )
 
         # Write to silver
-        df_out.repartition("date", "city_name") \
+        df_out.repartition("date") \
             .write.mode("overwrite") \
-            .partitionBy("date", "city_name") \
+            .partitionBy("date") \
             .parquet(SILVER_DIR)
-        
-        logger.info(f"Transformation completed successfully. Job completed in {(datetime.datetime.now() - start_time).total_seconds():.2f} seconds.")
+
+        seconds = (datetime.datetime.now() - start_time).total_seconds()
+        logger.info(f"Silver transformation completed successfully. Job took {seconds:.3f} seconds.")
+        spark.stop()
+
     except Exception as e:
         logger.error(f"Error during transformation: {e}")
-        sys.exit(1)
-    
-    finally:
         spark.stop()
+        sys.exit(1)
 
 
 # --- Main Execution ---
 def main():
     spark = get_spark_session()
-    transform_current_weather(spark)
+    transform_bronze_to_silver(spark)
 
 
 if __name__ == "__main__":
