@@ -30,7 +30,7 @@ def get_spark_session():
 def transform_bronze_to_silver(spark: SparkSession) -> None:
     """Transform current weather data from bronze to silver layer."""
     start_time = datetime.datetime.now()
-    logger.info("Starting transformation of current weather data...")
+    logger.info("Starting Bronze to Silver transformation...")
 
     try:
         df_raw = (
@@ -45,8 +45,8 @@ def transform_bronze_to_silver(spark: SparkSession) -> None:
 
         # Select relevant fields
         df = df_raw.select(
-            F.col("id").alias("city_id"),
-            F.col("name").alias("city_name"),
+            F.col("id").alias("place_id"),
+            F.col("name").alias("place_name"),
             F.col("sys.country").alias("country"),
             F.col("coord.lat").alias("latitude"),
             F.col("coord.lon").alias("longitude"),
@@ -60,15 +60,15 @@ def transform_bronze_to_silver(spark: SparkSession) -> None:
         )
 
         # De-duplication
-        df_dedup = df.dropDuplicates(["city_id", "timestamp"])
+        df_dedup = df.dropDuplicates(["place_id", "timestamp"])
 
         # Partition columns
         df_out = (
             df_dedup
             .withColumn("date", F.to_date("timestamp"))
             .withColumn("hour", F.hour("timestamp"))
-            .withColumn("city_name", F.regexp_replace(F.col("city_name"), r"[/\\\s:]", "_"))  # Replace invalid characters
-            .filter(F.col("date").isNotNull() & F.col("city_id").isNotNull())
+            .withColumn("place_name", F.regexp_replace(F.col("place_name"), r"[/\\\s:]", "_"))  # Replace invalid characters
+            .filter(F.col("date").isNotNull() & F.col("place_id").isNotNull())
         )
 
         # Write to silver

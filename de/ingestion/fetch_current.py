@@ -10,7 +10,7 @@ from utils.openweather import require_api_key, http_client, get_logger
 
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
-CITIES_PATH = "config/uk_cities.json"
+PLACES_PATH = "config/populated_places.json"
 
 # --- Logging ---
 logger = get_logger("fetch_current")
@@ -18,7 +18,7 @@ logger = get_logger("fetch_current")
 
 # --- Helper Functions ---
 def sanitize_name(name: str) -> str:
-    """Sanitize city name for filesystem-safe filename."""
+    """Sanitize place name for filesystem-safe filename."""
     return name.replace(" ", "_").lower()
 
 
@@ -39,7 +39,7 @@ def fetch_current_weather(client: httpx.Client, lat: float, lon: float) -> dict:
 
 
 # --- File Writing ---
-def write_weather(city: dict, payload: dict, output_dir: str) -> None:
+def write_weather(place: dict, payload: dict, output_dir: str) -> None:
     """Write the weather data to a JSON file."""
     dt = datetime.datetime.now(datetime.timezone.utc)
     date = dt.strftime("%Y-%m-%d")
@@ -48,7 +48,7 @@ def write_weather(city: dict, payload: dict, output_dir: str) -> None:
     dir_path = os.path.join(output_dir, f"date={date}", f"hour={hour}")
     os.makedirs(dir_path, exist_ok=True)
 
-    fname = f"{sanitize_name(city['name'])}.json"
+    fname = f"{sanitize_name(place['name'])}.json"
     fpath = os.path.join(dir_path, fname)
 
     with open(fpath, "w", encoding="utf-8") as f:
@@ -57,23 +57,23 @@ def write_weather(city: dict, payload: dict, output_dir: str) -> None:
 
 # --- Pipeline Execution ---
 def run_pipeline(output_dir: str) -> int:
-    """Fetch current weather for all cities in cities_path."""
-    with open(CITIES_PATH, "r", encoding="utf-8") as f:
-        cities = json.load(f)
+    """Fetch current weather for all places in places_path."""
+    with open(PLACES_PATH, "r", encoding="utf-8") as f:
+        places = json.load(f)
 
-    if not cities:
-        logger.error("No cities found in the provided file.")
+    if not places:
+        logger.error("No places found in the provided file.")
         return 0
     
     count = 0
     with http_client() as client:
-        for city in cities:
+        for place in places:
             try:
-                payload = fetch_current_weather(client, city["lat"], city["lon"])
-                write_weather(city, payload, output_dir)
+                payload = fetch_current_weather(client, place["lat"], place["lon"])
+                write_weather(place, payload, output_dir)
                 count += 1
             except Exception as e:
-                logger.error(f"Failed for {city['name']}: {e}")
+                logger.error(f"Failed for {place['name']}: {e}")
     
     return count
 
@@ -87,7 +87,7 @@ def main():
         
         logger.info("Starting job...")
         count = run_pipeline(output_dir)
-        logger.info(f"Job complete! {count} cities processed.")
+        logger.info(f"Job complete! {count} places processed.")
     except Exception as e:
         logger.critical(f"Fatal error: {e}", exc_info=True)
         sys.exit(1)

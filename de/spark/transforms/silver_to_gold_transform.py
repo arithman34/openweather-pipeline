@@ -29,7 +29,7 @@ def get_spark_session():
 def transform_silver_to_gold(spark: SparkSession) -> None:
     """Transform silver weather data into gold dataset for ML (classification)."""
     start_time = datetime.datetime.now()
-    logger.info("Starting Silver → Gold transformation...")
+    logger.info("Starting Silver to Gold transformation...")
 
     try:
         df_silver = (
@@ -40,8 +40,8 @@ def transform_silver_to_gold(spark: SparkSession) -> None:
 
         df_gold = df_silver.withColumn("hour", F.hour("timestamp"))
 
-        # Window by city and order by timestamp
-        window_spec = Window.partitionBy("city_id").orderBy("timestamp")
+        # Window by place and order by timestamp
+        window_spec = Window.partitionBy("place_id").orderBy("timestamp")
 
         df_gold = df_gold.withColumn(
             "rain_next_hour",
@@ -58,11 +58,11 @@ def transform_silver_to_gold(spark: SparkSession) -> None:
         df_gold = (
             df_gold
             .withColumn("date", F.to_date("timestamp"))
-            .withColumn("city_name", F.regexp_replace(F.col("city_name"), r"[/\\\s:]", "_"))
+            .withColumn("place_name", F.regexp_replace(F.col("place_name"), r"[/\\\s:]", "_"))
         )
 
-        # Drop rows with NULL labels (last record per city)
-        df_gold = df_gold.dropna(subset=["city_id", "timestamp", "rain_label"])
+        # Drop rows with NULL labels (last record per place)
+        df_gold = df_gold.dropna(subset=["place_id", "timestamp", "rain_label"])
 
         # Write Gold
         df_gold.repartition("date") \
