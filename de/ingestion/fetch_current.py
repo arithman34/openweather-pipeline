@@ -1,5 +1,6 @@
 import sys
 import os
+
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 import json
@@ -54,8 +55,7 @@ def write_weather(city: dict, payload: dict, output_dir: str) -> None:
     fpath = os.path.join(dir_path, fname)
 
     with open(fpath, "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
-        f.write("\n")
+        json.dump(payload, f, ensure_ascii=False)
 
 
 # --- Pipeline Execution ---
