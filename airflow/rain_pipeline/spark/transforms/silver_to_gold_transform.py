@@ -1,12 +1,12 @@
 import sys
-import datetime
+from datetime import datetime
 from pyspark.sql import SparkSession, functions as F
 from pyspark.sql import Window
 
-from utils.openweather import get_logger
+from rain_pipeline.scripts.utils import get_logger
 
-SILVER_DIR = "data/silver/current_weather"
-GOLD_DIR = "data/gold/current_weather"
+SILVER_DIR = "/usr/local/airflow/data/silver/current_weather"
+GOLD_DIR = "/usr/local/airflow/data/gold/current_weather"
 
 # --- Logging ---
 logger = get_logger("silver_to_gold_transform")
@@ -28,7 +28,7 @@ def get_spark_session():
 # --- Transformations ---
 def transform_silver_to_gold(spark: SparkSession) -> None:
     """Transform silver weather data into gold dataset for ML (classification)."""
-    start_time = datetime.datetime.now()
+    start_time = datetime.now()
     logger.info("Starting Silver to Gold transformation...")
 
     try:
@@ -70,7 +70,7 @@ def transform_silver_to_gold(spark: SparkSession) -> None:
             .partitionBy("date") \
             .parquet(GOLD_DIR)
 
-        seconds = (datetime.datetime.now() - start_time).total_seconds()
+        seconds = (datetime.now() - start_time).total_seconds()
         logger.info(f"Silver transformation completed successfully. Job took {seconds:.3f} seconds.")
         spark.stop()
 

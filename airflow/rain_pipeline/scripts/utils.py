@@ -3,11 +3,11 @@ import time
 import os
 import httpx
 
-from dotenv import load_dotenv
-load_dotenv()
+from airflow.models import Variable
 
-API_KEY = os.getenv("OPENWEATHER_API_KEY")
-USER_AGENT = os.getenv("USER_AGENT")
+
+API_KEY = Variable.get("OPENWEATHER_API_KEY")
+USER_AGENT = Variable.get("USER_AGENT")
 
 
 def require_api_key() -> str:

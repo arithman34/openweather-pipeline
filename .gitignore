@@ -1,5 +1,18 @@
-.env
-/data
+# Python
 __pycache__/
-/logs
-/.vscode
+*.pyc
+
+# Virtual env
+.venv/
+
+# Data outputs
+/data
+
+# Airflow runtime
+logs/
+airflow/include/
+airflow/tests/
+airflow/airflow_settings.yaml
+
+# Secrets
+.env

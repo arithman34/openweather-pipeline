@@ -1,13 +1,13 @@
 import sys
-import datetime
+from datetime import datetime
 from pyspark.sql import SparkSession, functions as F
 
-from de.spark.schemas.schema_silver_current import silver_schema
-from utils.openweather import get_logger
+from rain_pipeline.spark.schemas.schema_silver_current import silver_schema
+from rain_pipeline.scripts.utils import get_logger
 
 
-BRONZE_DIR = "data/bronze/openweather/current"
-SILVER_DIR = "data/silver/current_weather"
+BRONZE_DIR = "/usr/local/airflow/data/bronze/openweather/current"
+SILVER_DIR = "/usr/local/airflow/data/silver/current_weather"
 
 # --- Logging ---
 logger = get_logger("bronze_to_silver_transform")
@@ -29,7 +29,7 @@ def get_spark_session():
 # --- Transformations ---
 def transform_bronze_to_silver(spark: SparkSession) -> None:
     """Transform current weather data from bronze to silver layer."""
-    start_time = datetime.datetime.now()
+    start_time = datetime.now()
     logger.info("Starting Bronze to Silver transformation...")
 
     try:
@@ -77,7 +77,7 @@ def transform_bronze_to_silver(spark: SparkSession) -> None:
             .partitionBy("date") \
             .parquet(SILVER_DIR)
 
-        seconds = (datetime.datetime.now() - start_time).total_seconds()
+        seconds = (datetime.now() - start_time).total_seconds()
         logger.info(f"Silver transformation completed successfully. Job took {seconds:.3f} seconds.")
         spark.stop()
 
